@@ -1,0 +1,37 @@
+{
+  "slug": "tips",
+  "title": "Sandustry 技巧 — 让工厂更干净的短习惯",
+  "description": "抢先体验短技巧：挖掘纪律、过滤器、存档，以及何时推倒重来。",
+  "keyword": "sandustry 技巧",
+  "h1": "Sandustry 快速技巧",
+  "sections": [
+    {
+      "h2": "快速技巧",
+      "paragraphs": [
+        "为了目标而挖（空间、资源、流体控制），不要为了多巴胺乱开隧道。",
+        "在你觉得「还需要」之前就放过滤器。",
+        "留出走道与重建通道 — 像素基地很容易被活埋。",
+        "在关键传送带下方改地形前先存档或快照。",
+        "卡住时，盯一个路口看 30 秒，而不是再堆机器。",
+        "长 EA 开玩前，先用 Demo 压测你的电脑。",
+        "收藏 Steam 新闻与官方 Wiki，查补丁敏感数值。",
+        "Discord / Reddit 适合看布局截图，但不能替代读提示文本。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "给新手最好的一条建议？",
+      "a": "先自动化你最讨厌点的那一步。物流不稳之前，别的都是装饰。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://discord.gg/HJNk5eMnmt"
+  ],
+  "related": [
+    "guide",
+    "automation",
+    "demo"
+  ]
+}

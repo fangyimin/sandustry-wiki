@@ -17,12 +17,17 @@
 }
 
 body {
+  font-family: var(--font-body), system-ui, sans-serif;
   background:
     radial-gradient(1200px 600px at 10% -10%, rgba(180, 90, 20, 0.22), transparent 55%),
     radial-gradient(900px 500px at 90% 0%, rgba(80, 50, 20, 0.25), transparent 50%),
     var(--background);
   color: var(--foreground);
   min-height: 100vh;
+}
+
+html[data-locale="zh"] body {
+  font-family: var(--font-zh), var(--font-body), system-ui, sans-serif;
 }
 
 a {

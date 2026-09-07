@@ -1,0 +1,47 @@
+{
+  "slug": "slag",
+  "title": "Sandustry 炉渣与加工 — 副产物瓶颈",
+  "description": "炉渣与副产物如何堵塞 Sandustry 工厂，以及抢先体验中的高层加工习惯。",
+  "keyword": "sandustry 炉渣",
+  "h1": "Sandustry 炉渣与加工",
+  "sections": [
+    {
+      "h2": "副产物是循环的一部分",
+      "paragraphs": [
+        "工厂沙盒会惩罚只追高价值产物的玩家。炉渣与其他残留会填满传送带、埋住建筑，并伪装成「我需要挖更多」的问题。",
+        "有意识地过滤并消化副产物。"
+      ]
+    },
+    {
+      "h2": "习惯",
+      "paragraphs": [
+        "给炉渣单独车道或倾倒点，别让它回灌黄金主线。",
+        "不要把未分拣的挖沙产物永远并进一条长带。",
+        "吞吐量下降时，先检查路口是否卡了错误材料。",
+        "每次重大解锁后复查加工建筑 — EA 常会加入更好的消化方式。"
+      ]
+    },
+    {
+      "h2": "事实来源",
+      "paragraphs": [
+        "精确炉渣配方与机器名称属于官方 Wiki 与游戏内提示。",
+        "本页保持原则层，避免编造补丁敏感配比。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "炉渣该存还是该毁？",
+      "a": "取决于当前补丁 — 有些副产物之后会变成原料。在搞清楚前，先隔离它，别让它拖垮主线。"
+    }
+  ],
+  "sources": [
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://store.steampowered.com/app/2764460/Sandustry/"
+  ],
+  "related": [
+    "automation",
+    "guide",
+    "water"
+  ]
+}

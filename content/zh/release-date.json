@@ -1,0 +1,45 @@
+{
+  "slug": "release-date",
+  "title": "Sandustry 发售日 — 抢先体验 2026-08-13",
+  "description": "Sandustry 抢先体验日期、计划 EA 窗口，以及如何关注 Lantto Games / Hooded Horse 更新。",
+  "keyword": "sandustry 发售日",
+  "h1": "Sandustry 抢先体验日期",
+  "sections": [
+    {
+      "h2": "已确认的 EA 日期",
+      "paragraphs": [
+        "Sandustry 于 2026-08-13 进入 Steam 抢先体验。",
+        "商店页注明计划中的抢先体验约一年，并计划加入更多建筑、资源、产线、任务与科技。"
+      ]
+    },
+    {
+      "h2": "如何跟踪更新",
+      "paragraphs": [
+        "关注本体商店页 Steam 新闻、官方 Discord、Reddit r/SandustryGame、YouTube @sandustry，以及 Hooded Horse 托管的官方 Wiki。",
+        "粉丝站（包括本站）会落后于补丁。解锁表与平衡请优先看一手来源。"
+      ]
+    },
+    {
+      "h2": "1.0 时间",
+      "paragraphs": [
+        "除 Steam 上的 EA 窗口表述外，本页不把单独的完整 1.0 日期当作已锁定信息。",
+        "离开抢先体验的公告，请回看商店页与开发组动态。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sandustry 已经完全发售了吗？",
+      "a": "以本页研究时点为准，它以 Steam 抢先体验售卖，不是成品 1.0。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://discord.gg/HJNk5eMnmt"
+  ],
+  "related": [
+    "demo",
+    "guide",
+    "gameplay"
+  ]
+}

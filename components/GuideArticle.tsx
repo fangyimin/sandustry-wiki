@@ -1,15 +1,25 @@
+"use client";
+
 import type { GuidePage } from "@/lib/site";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import Link from "next/link";
+import { useLanguage } from "@/lib/i18n/context";
+import { getUi } from "@/lib/i18n/ui";
 
-export function GuideArticle({ page }: { page: GuidePage }) {
+export function GuideArticle({ en, zh }: { en: GuidePage; zh?: GuidePage }) {
+  const { locale } = useLanguage();
+  const t = getUi(locale);
+  const page = locale === "zh" && zh ? zh : en;
+
   return (
     <div className="min-h-screen">
       <Header />
       <main className="mx-auto max-w-3xl px-4 py-10">
         <p className="text-sm text-[hsl(36_78%_55%)]">
-          <Link href="/" className="hover:underline">Home</Link>
+          <Link href="/" className="hover:underline">
+            {t.common.homeCrumb}
+          </Link>
           <span className="mx-2 text-stone-600">/</span>
           <span className="text-stone-400">{page.keyword}</span>
         </p>
@@ -25,9 +35,7 @@ export function GuideArticle({ page }: { page: GuidePage }) {
         <div className="prose-custom mt-10 space-y-10">
           {page.sections.map((section) => (
             <section key={section.h2}>
-              <h2 className="font-[family-name:var(--font-display)] text-2xl text-[hsl(36_78%_62%)]">
-                {section.h2}
-              </h2>
+              <h2 className="font-[family-name:var(--font-display)] text-2xl text-[hsl(36_78%_62%)]">{section.h2}</h2>
               <div className="mt-4 space-y-4 text-base leading-7 text-stone-300">
                 {section.paragraphs.map((p) => (
                   <p key={p.slice(0, 24)}>{p}</p>
@@ -38,7 +46,7 @@ export function GuideArticle({ page }: { page: GuidePage }) {
         </div>
         {page.faq && page.faq.length > 0 ? (
           <section className="mt-12">
-            <h2 className="font-[family-name:var(--font-display)] text-2xl text-[hsl(36_78%_62%)]">FAQ</h2>
+            <h2 className="font-[family-name:var(--font-display)] text-2xl text-[hsl(36_78%_62%)]">{t.common.faq}</h2>
             <div className="mt-6 space-y-6">
               {page.faq.map((item) => (
                 <div key={item.q}>
@@ -64,7 +72,7 @@ export function GuideArticle({ page }: { page: GuidePage }) {
         ) : null}
         {page.sources && page.sources.length > 0 ? (
           <aside className="mt-12 rounded-lg border border-white/10 bg-white/[0.03] px-4 py-4">
-            <h2 className="text-sm font-semibold uppercase tracking-wider text-stone-400">Sources</h2>
+            <h2 className="text-sm font-semibold uppercase tracking-wider text-stone-400">{t.common.sources}</h2>
             <ul className="mt-3 list-disc space-y-1 pl-5 text-sm text-stone-500">
               {page.sources.map((s) => (
                 <li key={s}>

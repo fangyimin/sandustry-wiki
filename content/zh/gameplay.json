@@ -1,0 +1,46 @@
+{
+  "slug": "gameplay",
+  "title": "Sandustry 玩法总览 — 挖掘、精炼、自动化",
+  "description": "Sandustry 玩法手感：像素物理挖掘、精炼与工厂自动化（Lantto Games / Hooded Horse）。",
+  "keyword": "sandustry 玩法",
+  "h1": "Sandustry 玩法总览",
+  "sections": [
+    {
+      "h2": "核心幻想",
+      "paragraphs": [
+        "Sandustry 把可破坏地形与工厂物流混在一起。你一像素一像素重塑沙星、提取价值，并走向自我运转的生产。",
+        "它更接近沙盒自动化，而不是战斗向肉鸽。"
+      ]
+    },
+    {
+      "h2": "适合谁",
+      "paragraphs": [
+        "喜欢挖掘、传送带谜题，以及看着系统稳定下来的玩家。",
+        "若你想要纯动作或已完工的内容清单，可能不太适合 — 抢先体验意味着系统与 UI 仍在变动。"
+      ]
+    },
+    {
+      "h2": "平台与社区",
+      "paragraphs": [
+        "PC 走 Steam。社区包括 Discord、Reddit r/SandustryGame，以及 @sandustry YouTube 频道。",
+        "官方文档在 Hooded Horse 的 Sandustry Wiki。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sandustry 有多人吗？",
+      "a": "默认按单人工厂向理解，除非你当前版本的 Steam 功能明确列出多人。务必再核对商店页。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ],
+  "related": [
+    "guide",
+    "demo",
+    "release-date"
+  ]
+}

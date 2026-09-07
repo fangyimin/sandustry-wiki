@@ -1,0 +1,47 @@
+{
+  "slug": "water",
+  "title": "Sandustry 水与流体 — 湿沙、流体与管道",
+  "description": "高层 Sandustry 水与流体提示：湿沙、淹水挖面，以及管道在抢先体验中为何重要。",
+  "keyword": "sandustry 水",
+  "h1": "Sandustry 水与流体基础",
+  "sections": [
+    {
+      "h2": "为什么水会很早出现",
+      "paragraphs": [
+        "Steam 与社区讨论都把流体当作幻想的一部分 — 湿沙、泵与管道和传送带一起构成自动化故事。",
+        "挖的时候不看湿度，可能埋住机器，或饿死期望湿料的精炼循环。"
+      ]
+    },
+    {
+      "h2": "实用习惯",
+      "paragraphs": [
+        "在脆弱物流落位前，先观察挖面是否突然淹水。",
+        "若水在迁移，在关键精炼机周围保留干燥缓冲区。",
+        "先学会一条泵—管道路径，再分支整张流体网。",
+        "卡住时先停挖、修流体路由 — 再挖更多沙子很少能修好被淹的传送带。"
+      ]
+    },
+    {
+      "h2": "以游戏内为准",
+      "paragraphs": [
+        "精确流体规则、热量互动与建筑解锁会在 EA 中变化。",
+        "配方与建筑名称请对照 Hooded Horse 官方 Sandustry Wiki 与当前补丁说明。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "炼金必须用水吗？",
+      "a": "Steam 营销强调把湿沙精炼成金。把这当作早期设计意图，具体步骤以你当前版本与官方 Wiki 为准。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "related": [
+    "guide",
+    "automation",
+    "slag"
+  ]
+}

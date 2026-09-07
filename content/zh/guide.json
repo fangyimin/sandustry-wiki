@@ -1,0 +1,68 @@
+{
+  "slug": "guide",
+  "title": "Sandustry 新手指南 — 抢先体验前几小时",
+  "description": "实用的 Sandustry 新手指南：挖沙、炼出价值、布置早期传送带，并避开常见抢先体验瓶颈。",
+  "keyword": "sandustry 新手指南",
+  "h1": "Sandustry 新手指南",
+  "note": "抢先体验系统会变。补丁敏感配方请优先看 Steam 新闻与 Hooded Horse 官方 Wiki。",
+  "sections": [
+    {
+      "h2": "你要做的事",
+      "paragraphs": [
+        "Sandustry 是「挖掘 + 自动化」沙盒。Steam 卖点很直接：钻进会流动的沙星，从材料里筛出价值（从湿沙到黄金），再用建筑搬运、过滤与加工像素，取代纯手动搬运。",
+        "第一局该回答三个问题：我能安全挖掘吗？我能炼出有价值的东西吗？我能不用每趟都走过去运材料吗？"
+      ]
+    },
+    {
+      "h2": "建议的第一小时循环",
+      "paragraphs": [
+        "在第一套精炼附近挖一个紧凑的起步坑，而不是乱挖隧道。",
+        "跟随游戏内提示与早期目标，走 Steam 强调的筛选—精炼路线。",
+        "一旦吞吐量开始痛，就立刻放一段短传送带或发射器 — 别等基地很大了才开始。",
+        "保留一块清晰的倾倒区，避免沙子、矿石与副产物埋住机器。",
+        "大挖之前保存一份干净布局快照；像素物理意味着一次失误会连锁放大。"
+      ]
+    },
+    {
+      "h2": "玩家常报的早期瓶颈",
+      "paragraphs": [
+        "没有过滤器，把所有材料混在同一条带上。",
+        "忽视水与湿沙互动，直到挖面淹水或错误区域变干。",
+        "挖面扩张快过精炼产能。",
+        "把免费 Demo 与完整 EA 当成同一回事 — 内容深度不同；用 Demo 检查性能与核心循环。"
+      ]
+    },
+    {
+      "h2": "接下来看哪里",
+      "paragraphs": [
+        "想看传送带与过滤器习惯去读「自动化技巧」；流体挡住进度去读「水与流体」；还没买抢先体验就先看「Demo 指南」。",
+        "补丁级配方与建筑数值，请对照 Hooded Horse 官方 Wiki 与 Steam 新闻 — 本粉丝站保持高层说明，避免 EA 变动时写出错误数字。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sandustry 免费吗？",
+      "a": "有免费 Steam Demo。完整游戏是 Steam 上的付费抢先体验（app 2764460）。"
+    },
+    {
+      "q": "抢先体验什么时候上线？",
+      "a": "Steam 标注抢先体验于 2026-08-13，商店页说明约有一年计划中的 EA 更新。"
+    },
+    {
+      "q": "谁做的 Sandustry？",
+      "a": "开发商 Lantto Games；发行商 Hooded Horse。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "related": [
+    "automation",
+    "demo",
+    "water",
+    "tips"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "demo",
+  "title": "Sandustry Demo 指南 — 购买前该测什么",
+  "description": "Sandustry Steam Demo 清单：性能、核心循环，以及免费 Demo 与抢先体验的差异。",
+  "keyword": "sandustry demo",
+  "h1": "Sandustry Demo 指南",
+  "sections": [
+    {
+      "h2": "Demo 在哪里拿",
+      "paragraphs": [
+        "免费 Sandustry Demo 在 Steam 上是独立应用（3490390）。Demo 页评价为好评如潮。",
+        "用它验证帧率、手感，以及「挖掘—精炼—自动化」这套幻想是否对你有吸引力。"
+      ]
+    },
+    {
+      "h2": "30–60 分钟清单",
+      "paragraphs": [
+        "挖并重塑地形，直到物理手感可读。",
+        "完成早期精炼 / 面向黄金的引导循环。",
+        "至少放一座传送带或物流建筑，观察材料流动。",
+        "用更密的挖面和更多建筑压测你的电脑 — 工厂游戏后期会吃 CPU/GPU。",
+        "玩完后扫一眼 Discord 或 Reddit，区分当前 EA 吐槽与 Demo 限制。"
+      ]
+    },
+    {
+      "h2": "Demo 与抢先体验",
+      "paragraphs": [
+        "完整 EA 本体（app 2764460）在建筑、资源、产线、任务与科技上会更深 — Steam EA 说明约有一年计划内容。",
+        "Demo 是试吃，不是完整替代。只有循环手感对了再愿望单或购买。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Demo 进度会继承吗？",
+      "a": "除非 Steam 或开发组在补丁说明中明确说可迁移，否则把 Demo 与本体当成分开的。假设云存档可迁移前，先看 Demo 与本体商店页。"
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://store.steampowered.com/app/2764460/Sandustry/"
+  ],
+  "related": [
+    "guide",
+    "release-date",
+    "gameplay"
+  ]
+}

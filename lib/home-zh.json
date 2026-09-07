@@ -1,0 +1,148 @@
+{
+  "home": {
+    "meta": {
+      "title": "Sandustry Wiki — 指南、自动化与 Demo",
+      "description": "粉丝向 Sandustry Wiki：抢先体验新手指南、自动化技巧、Demo 说明，以及来自 Steam 与官方渠道的工厂基础。"
+    },
+    "hero": {
+      "eyebrow": "粉丝社区 Wiki",
+      "title": "Sandustry",
+      "description": "挖掘、筛选，并自动化一颗会流动的沙星。把湿沙炼成金，再用传送带帝国让工厂自己跑起来。",
+      "stats": [
+        "抢先体验 2026-08-13",
+        "好评如潮（Steam）",
+        "Demo 可用且好评如潮",
+        "开发：Lantto Games",
+        "发行：Hooded Horse"
+      ],
+      "primaryCta": "开始新手指南",
+      "secondaryCta": "自动化技巧",
+      "tertiaryCta": "玩免费 Demo",
+      "videoLabel": "官方频道 / 预告片"
+    },
+    "start": {
+      "eyebrow": "从这里开始",
+      "title": "你的 Sandustry 路线",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手指南",
+          "description": "核心循环：挖沙、炼出价值、布置早期物流。"
+        },
+        {
+          "number": "2",
+          "title": "自动化",
+          "description": "传送带、过滤器与布局，告别纯手动搬运。"
+        },
+        {
+          "number": "3",
+          "title": "建筑总览",
+          "description": "来自 Steam 与官方 Wiki 的高层建筑角色。"
+        },
+        {
+          "number": "4",
+          "title": "Demo 清单",
+          "description": "买抢先体验前，在免费 Demo 里该试什么。"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Sandustry 是什么？",
+      "paragraphs": [
+        "Sandustry 是 Lantto Games 开发、Hooded Horse 发行的像素物理沙盒工厂游戏。你在可破坏的沙世界里挖掘、精炼材料，并用传送带、过滤器、流体与更深层科技自动化生产。",
+        "Steam 抢先体验于 2026-08-13 上线。商店页与 EA 说明指向约一年的更新，包含更多建筑、资源、产线、任务与科技。本站是粉丝向配套站 — 不是 Hooded Horse 官方 Wiki。"
+      ],
+      "stats": [
+        {
+          "label": "开发商",
+          "value": "Lantto Games"
+        },
+        {
+          "label": "发行商",
+          "value": "Hooded Horse"
+        },
+        {
+          "label": "平台",
+          "value": "Steam（PC）"
+        },
+        {
+          "label": "类型",
+          "value": "沙盒 / 工厂自动化"
+        },
+        {
+          "label": "本体评价",
+          "value": "好评如潮"
+        },
+        {
+          "label": "Demo 评价",
+          "value": "好评如潮"
+        },
+        {
+          "label": "EA 窗口",
+          "value": "约 1 年（商店说明）"
+        }
+      ],
+      "cta": "查看全部攻略"
+    },
+    "finalCta": {
+      "title": "准备好自动化整片沙子了吗？",
+      "description": "从第一批筛选机，到传送带回路与流体谜题——本站跟玩家在抢先体验里真正会搜的问题对齐。",
+      "primary": "阅读新手指南",
+      "secondary": "打开 Steam"
+    }
+  },
+  "footer": {
+    "aboutTitle": "Sandustry Wiki",
+    "about": "独立的 Sandustry 粉丝攻略站。",
+    "description": "Steam 抢先体验上的像素工厂沙盒。",
+    "playGame": "在 Steam 游玩",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "Sandustry YouTube",
+    "disclaimer": "非官方粉丝站，与 Lantto Games / Hooded Horse 无关。游戏事实引用 Steam 与官方渠道；机制可能在 EA 中变化。",
+    "privacy": "隐私",
+    "contact": "联系",
+    "aboutPage": "关于"
+  },
+  "guides": [
+    {
+      "slug": "guide",
+      "title": "新手指南",
+      "description": "前几小时：挖掘、精炼、布置物流。"
+    },
+    {
+      "slug": "automation",
+      "title": "自动化技巧",
+      "description": "传送带、过滤器与工厂流。"
+    },
+    {
+      "slug": "demo",
+      "title": "Demo 指南",
+      "description": "购买前该测什么。"
+    },
+    {
+      "slug": "release-date",
+      "title": "EA 发售日",
+      "description": "2026-08-13 与路线图。"
+    },
+    {
+      "slug": "water",
+      "title": "水与流体",
+      "description": "流体、湿沙与早期管道。"
+    },
+    {
+      "slug": "slag",
+      "title": "炉渣与加工",
+      "description": "副产物与精炼瓶颈。"
+    },
+    {
+      "slug": "gameplay",
+      "title": "玩法总览",
+      "description": "循环、类型与适合谁。"
+    },
+    {
+      "slug": "tips",
+      "title": "快速技巧",
+      "description": "减少推倒重来的短习惯。"
+    }
+  ]
+}

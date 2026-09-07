@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { GuideArticle } from "@/components/GuideArticle";
-import { getGuide, getGuideSlugs } from "@/lib/site";
+import { getGuide, getGuideSlugs } from "@/lib/guides";
 import siteConfig from "@/config/site.json";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -15,7 +15,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const page = getGuide(slug);
+  const page = getGuide(slug, "en");
   if (!page) return {};
   return {
     title: page.title,
@@ -26,7 +26,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function ContentPage({ params }: Props) {
   const { slug } = await params;
   if (siteConfig.reservedRoutes.includes(slug)) notFound();
-  const page = getGuide(slug);
-  if (!page) notFound();
-  return <GuideArticle page={page} />;
+  const en = getGuide(slug, "en");
+  if (!en) notFound();
+  const zh = getGuide(slug, "zh");
+  return <GuideArticle en={en} zh={zh} />;
 }

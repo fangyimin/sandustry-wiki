@@ -1,7 +1,8 @@
 import type { CSSProperties } from "react";
 import type { Metadata } from "next";
-import { Fraunces, Outfit } from "next/font/google";
+import { Fraunces, Noto_Sans_SC, Outfit } from "next/font/google";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
+import { Providers } from "@/components/Providers";
 import siteConfig from "@/config/site.json";
 import "./globals.css";
 
@@ -17,6 +18,12 @@ const body = Outfit({
   variable: "--font-body",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
+});
+
+const zhBody = Noto_Sans_SC({
+  variable: "--font-zh",
+  subsets: ["latin"],
+  weight: ["400", "500", "700"],
 });
 
 export const metadata: Metadata = {
@@ -47,8 +54,8 @@ export default function RootLayout({
       <head>
         <GoogleAnalytics />
       </head>
-      <body className={`${display.variable} ${body.variable} font-[family-name:var(--font-body)] antialiased`} style={themeStyle}>
-        {children}
+      <body className={`${display.variable} ${body.variable} ${zhBody.variable} antialiased`} style={themeStyle}>
+        <Providers>{children}</Providers>
       </body>
     </html>
   );
