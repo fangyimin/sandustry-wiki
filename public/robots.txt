@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://playsandustry.online
+Sitemap: https://playsandustry.online/sitemap.xml
