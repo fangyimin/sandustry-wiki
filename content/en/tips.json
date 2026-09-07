@@ -1,21 +1,55 @@
 {
   "slug": "tips",
-  "title": "Sandustry Tips — Quick Habits for Cleaner Factories",
-  "description": "Short Sandustry tips for Early Access: dig discipline, filters, saves, and when to rebuild.",
+  "title": "Sandustry Tips — 20 Habits for Cleaner Early Access Factories",
+  "description": "Sandustry tips checklist: dig discipline, filters, overflow, saves, fluids, performance, community sources, and beginner FAQ.",
   "keyword": "sandustry tips",
   "h1": "Sandustry Quick Tips",
   "sections": [
     {
-      "h2": "Quick tips",
+      "h2": "Digging discipline",
       "paragraphs": [
         "Dig for a goal (space, resource, fluid control), not for dopamine tunnels.",
+        "Keep the dig face narrow enough that you can still see logistics behind it.",
+        "Do not undercut belts and machines without a save.",
+        "If a cave is flooding, stop digging and fix fluid routing first."
+      ]
+    },
+    {
+      "h2": "Logistics discipline",
+      "paragraphs": [
         "Place filters before you think you need them.",
+        "Separate dig → buffer → refine → sink even in a tiny starter base.",
         "Leave walkways and rebuild lanes — pixel bases get entombed.",
+        "Give overflow an intentional dump so clogs do not become mysteries.",
+        "When stuck, watch one junction for 30 seconds instead of adding more machines."
+      ]
+    },
+    {
+      "h2": "Byproducts and fluids",
+      "paragraphs": [
+        "Isolate slag / residuals from the valuable path early.",
+        "Treat wet sand as a designed early loop, not a random weather event.",
+        "Learn one clean pipe/pump path before branching a fluid maze.",
+        "More sand rarely fixes a flooded belt."
+      ]
+    },
+    {
+      "h2": "Saves, patches, and honesty",
+      "paragraphs": [
         "Snapshot or save before terraforming under critical belts.",
-        "When stuck, watch one junction for 30 seconds instead of adding more machines.",
         "Use the demo to profile your PC before a long EA session.",
         "Bookmark Steam news and the official wiki for patch-sensitive numbers.",
-        "Join Discord or Reddit for layout screenshots, not as a substitute for reading tooltips."
+        "Join Discord or Reddit for layout screenshots — not as a substitute for reading tooltips.",
+        "If a guide invents exact ratios without sources, ignore it during EA."
+      ]
+    },
+    {
+      "h2": "Mindset tips that save hours",
+      "paragraphs": [
+        "Automate the step you hate clicking first.",
+        "Stable flow beats bigger holes.",
+        "Rebuild in slices, not rage-wipes, when possible.",
+        "Write down the bottleneck in one sentence before redesigning."
       ]
     }
   ],
@@ -23,11 +57,20 @@
     {
       "q": "Best tip for beginners?",
       "a": "Automate the step you hate clicking first. Everything else is decoration until flow is stable."
+    },
+    {
+      "q": "Best tip when the factory “randomly” stops?",
+      "a": "Watch the junction and the sink. Full outputs and unsorted merges cause most sudden freezes."
+    },
+    {
+      "q": "Best tip before watching a megabase video?",
+      "a": "Make sure your own dig → buffer → refine → sink line already runs. Videos skip early sorting pain."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
-    "https://discord.gg/HJNk5eMnmt"
+    "https://discord.gg/HJNk5eMnmt",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
   ],
-  "related": ["guide", "automation", "demo"]
+  "related": ["guide", "automation", "demo", "water", "slag"]
 }

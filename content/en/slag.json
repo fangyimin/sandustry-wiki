@@ -1,43 +1,72 @@
 {
   "slug": "slag",
-  "title": "Sandustry Slag & Processing — Byproduct Bottlenecks",
-  "description": "How slag and byproducts clog Sandustry factories, and high-level processing habits for Early Access.",
+  "title": "Sandustry Slag & Processing — Stop Byproducts From Killing Throughput",
+  "description": "Sandustry slag and byproduct guide: why residuals clog factories, isolation habits, overflow tactics, FAQ, and where official recipes live.",
   "keyword": "sandustry slag",
   "h1": "Sandustry Slag & Processing",
+  "note": "Exact slag recipes and machine names are patch-sensitive. This page stays principle-level; verify details on the official wiki and in-game tooltips.",
   "sections": [
     {
       "h2": "Byproducts are part of the loop",
       "paragraphs": [
         "Factory sandboxes punish players who only chase the valuable output. Slag and other residuals fill belts, bury buildings, and fake “I need more dig” problems.",
-        "Filter and sink byproducts on purpose."
+        "If the gold path looks hungry while junctions are piled high with junk, you do not have a dig problem — you have a sorting / sink problem.",
+        "Filter and sink byproducts on purpose from the first crowded belt onward."
       ]
     },
     {
-      "h2": "Habits",
+      "h2": "Isolation habits that protect the valuable lane",
       "paragraphs": [
-        "Give slag its own lane or dump before it backfills the gold path.",
+        "Give slag its own lane or dump before it backfills the valuable path.",
         "Do not merge unsorted dig output into a single long belt forever.",
-        "When throughput drops, inspect junctions for the wrong material first.",
-        "Revisit processing buildings after each major unlock — EA often adds better sinks."
+        "Put filters upstream of merges. Downstream filters on a packed junction are usually too late.",
+        "When throughput drops, inspect junctions for the wrong material first."
+      ]
+    },
+    {
+      "h2": "Store, sink, or process later?",
+      "paragraphs": [
+        "Some byproducts become feedstock after later unlocks; some are waste in the current patch. EA makes permanent “destroy everything” advice risky.",
+        "Until you know, isolate. Isolation keeps options open without stalling the main line.",
+        "Revisit processing buildings after major Steam news / unlocks — EA often adds better sinks or reuse chains."
+      ]
+    },
+    {
+      "h2": "Debugging checklist",
+      "paragraphs": [
+        "Is the valuable output actually leaving the refiner, or is input polluted?",
+        "Is a residual pile touching a belt side and re-contaminating a sorted line?",
+        "Do you have an intentional overflow for junk, or only hope?",
+        "Did you widen dig volume after a clog instead of fixing sorting?"
       ]
     },
     {
       "h2": "Sources of truth",
       "paragraphs": [
-        "Exact slag recipes and machine names belong on the official wiki and in-game tooltips.",
-        "This page stays principle-level so it does not invent patch-sensitive ratios."
+        "Official Hooded Horse wiki and in-game tooltips own recipe truth.",
+        "Use Automation Tips for belt/filter design and the Beginner Guide for recovery playbooks.",
+        "Community Discord/Reddit screenshots help for layouts, not for inventing numbers."
       ]
     }
   ],
   "faq": [
     {
       "q": "Should I store slag or destroy it?",
-      "a": "Depends on the current patch — some byproducts become feedstock later. Until you know, isolate it so it cannot stall the main line."
+      "a": "Depends on the current patch. Until you know, isolate it so it cannot stall the main line."
+    },
+    {
+      "q": "Why does sorting feel like it lowered throughput?",
+      "a": "Short term it can, because you stopped cheating with a mixed belt. Long term it prevents total freezes."
+    },
+    {
+      "q": "Is slag the only byproduct that matters?",
+      "a": "Treat any residual that is not your current valuable output as a clog risk. Names change by patch."
     }
   ],
   "sources": [
     "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
-    "https://store.steampowered.com/app/2764460/Sandustry/"
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": ["automation", "guide", "water"]
+  "related": ["automation", "guide", "water", "tips"]
 }

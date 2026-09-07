@@ -1,49 +1,86 @@
 {
   "slug": "guide",
   "title": "Sandustry Beginner Guide — First Hours in Early Access",
-  "description": "A practical Sandustry beginner guide: dig sand, refine value, place early conveyors, and avoid common Early Access bottlenecks.",
+  "description": "A thicker Sandustry beginner guide for Early Access: dig–refine–automate loop, first-hour checklist, common failures, FAQ, and where official sources beat fan pages.",
   "keyword": "sandustry guide",
   "h1": "Sandustry Beginner Guide",
-  "note": "Early Access systems change. Prefer Steam news and the official Hooded Horse wiki for patch-sensitive recipes.",
+  "note": "Early Access systems change. Prefer Steam news and the official Hooded Horse wiki for patch-sensitive recipes, unlock tables, and exact building names.",
   "sections": [
     {
-      "h2": "What you are trying to do",
+      "h2": "What Sandustry is asking you to do",
       "paragraphs": [
-        "Sandustry is a dig-and-automate sandbox. The Steam pitch is simple: dig into a living sand planet, sift value from materials (starting with wet sand toward gold), then replace manual hauling with buildings that move, filter, and process pixels for you.",
-        "Your first session should answer three questions: Can I dig safely? Can I refine something valuable? Can I move materials without walking every load?"
+        "Sandustry is a dig-and-automate sandbox from Lantto Games, published by Hooded Horse. Steam frames the fantasy as exploring a fully destructible sand world where every pixel can be mined, mixed, processed, or destroyed — then growing that chaos into a factory.",
+        "The store pitch starts humble: sift value from sand (wet sand toward gold), then replace shovel labor with conveyors, launchers, filters, fluids, and later deeper tech such as drones and longer production chains.",
+        "Your first session should answer three questions only: Can I dig without burying myself? Can I refine something valuable? Can I move materials without walking every load?"
+      ]
+    },
+    {
+      "h2": "Before you dig a megabase",
+      "paragraphs": [
+        "Open the free demo first if you have not bought Early Access. Factory games punish weak CPUs late; the demo is the cheapest stress test.",
+        "Skim the Steam page features list so you know conveyors, filters, and fluids are intended — not optional cosmetics.",
+        "Bookmark the official Hooded Horse Sandustry wiki and the Steam news hub. This fan guide stays principle-level on purpose.",
+        "Decide a save habit early. Pixel physics means one bad dig under a belt can cascade into a rebuild."
       ]
     },
     {
       "h2": "Suggested first-hour loop",
       "paragraphs": [
-        "Dig a compact starter pit near your first refining setup instead of tunneling randomly.",
-        "Follow the in-game prompts and early objectives for the shaker–refine path Steam highlights.",
-        "Place a short conveyor or launcher as soon as throughput hurts — do not wait until the base is huge.",
-        "Keep one clear dump zone so sand, ore, and byproducts do not bury your machines.",
-        "Save a clean layout snapshot before big digs; pixel physics means mistakes cascade."
+        "Dig a compact starter pit next to your first refining setup. Random dopamine tunnels create flooded rooms and stranded machines.",
+        "Follow in-game prompts for the early shaker / refine path Steam markets. Do not skip the tutorial objectives to “play freeform” on hour one.",
+        "When walking materials hurts, place a short conveyor or launcher immediately — even a ugly temporary belt beats heroic hauling.",
+        "Keep one clear dump / overflow zone. Sand, ore, and byproducts will try to bury your buildings.",
+        "After the first stable refine loop, stop expanding the dig face until logistics and sorting catch up.",
+        "Take a screenshot or save before your first big terraforming cut under active lines."
       ]
     },
     {
-      "h2": "Early bottlenecks players report",
+      "h2": "How to think about the early economy",
       "paragraphs": [
-        "Mixing every material on one belt without filters.",
-        "Ignoring water and wet sand interactions until the dig floods or dries the wrong zone.",
-        "Expanding the dig face faster than refining capacity.",
-        "Treating the free demo and full EA as identical — content depth differs; use the demo to check performance and the core loop."
+        "Value is not “more sand.” Value is throughput of the correct material into the correct machine without clogging.",
+        "Wet sand and fluid control matter early because Steam’s marketing loop literally starts there. If moisture is wrong, refining fantasies stall.",
+        "Byproducts (including slag-like residuals) are not flavor — they are belt poison if unsorted. Isolate them before you widen dig volume.",
+        "Treat every new building as a flow change, not a decoration. Ask: what enters, what leaves, where does overflow go?"
       ]
     },
     {
-      "h2": "Where to go next",
+      "h2": "Common first-day failures",
       "paragraphs": [
-        "Read Automation Tips for belt and filter habits, Water Basics if fluids are blocking progress, and the Demo Guide if you have not bought Early Access yet.",
-        "For patch-level recipes and building stats, cross-check the official Hooded Horse wiki and Steam news — this fan site stays high-level so EA churn does not invent false numbers."
+        "Mixing every material on one belt with no filters, then blaming “not enough dig.”",
+        "Expanding caves faster than refining and transport capacity.",
+        "Ignoring water until a flood entombs logistics.",
+        "Building a pretty spaghetti megabase before one clean dig → buffer → refine → sink line works.",
+        "Assuming the free demo and paid Early Access are identical in depth — they are not.",
+        "Copying competitor wiki recipe tables without checking your patch. EA churn will gaslight you."
+      ]
+    },
+    {
+      "h2": "A simple recovery playbook when stuck",
+      "paragraphs": [
+        "Pause digging for five minutes. Watch one junction. Identify which material is flooding the line.",
+        "Add or fix filters before adding more machines.",
+        "Create a temporary overflow dump so the main path can breathe.",
+        "Rebuild one segment (dig face, or refine input, or sink) — not the entire base.",
+        "If fluids are involved, fix routing before terraforming more wet sand.",
+        "Then continue. Stable flow beats bigger holes."
+      ]
+    },
+    {
+      "h2": "Where to go next on this wiki",
+      "paragraphs": [
+        "Automation Tips — belt, launcher, and filter habits that survive rebuilds.",
+        "Water Basics — wet sand, floods, and why pipes show up early.",
+        "Slag & Processing — byproduct bottlenecks that fake dig problems.",
+        "Demo Guide — what to test before buying.",
+        "Buildings hub (/modules) — high-level roles from Steam marketing, not fake DPS tables.",
+        "For authoritative recipes and unlock order, use the official wiki and in-game tooltips."
       ]
     }
   ],
   "faq": [
     {
       "q": "Is Sandustry free?",
-      "a": "There is a free Steam demo. The full game is paid Early Access on Steam (app 2764460)."
+      "a": "There is a free Steam demo (app 3490390). The full game is paid Early Access (app 2764460)."
     },
     {
       "q": "When did Early Access launch?",
@@ -52,12 +89,25 @@
     {
       "q": "Who makes Sandustry?",
       "a": "Developer Lantto Games; publisher Hooded Horse."
+    },
+    {
+      "q": "Should I follow a YouTube megabase guide on day one?",
+      "a": "Usually no. Learn one stable dig–refine–move loop first. Megabase videos skip the painful early sorting lessons."
+    },
+    {
+      "q": "Why is my factory “producing” but I still feel broke?",
+      "a": "Often the valuable path is clogged by unsorted sand or byproducts. Inspect junctions before digging more."
+    },
+    {
+      "q": "Is this site the official wiki?",
+      "a": "No. This is an independent fan guide. Official docs live on the Hooded Horse Sandustry wiki."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
     "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
-    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": ["automation", "demo", "water", "tips"]
+  "related": ["automation", "demo", "water", "tips", "slag", "gameplay"]
 }

@@ -1,41 +1,72 @@
 {
   "slug": "release-date",
-  "title": "Sandustry Release Date — Early Access August 13, 2026",
-  "description": "Sandustry Early Access date, planned EA window, and where to follow updates from Lantto Games and Hooded Horse.",
+  "title": "Sandustry Release Date — Early Access August 13, 2026 & Roadmap Notes",
+  "description": "Sandustry Early Access date (Aug 13, 2026), planned EA window, how to track updates, 1.0 status, FAQ, and official channels.",
   "keyword": "sandustry release date",
   "h1": "Sandustry Early Access Date",
+  "note": "Dates and roadmap language can change. Re-check the Steam store page and developer posts before making plans around 1.0.",
   "sections": [
     {
-      "h2": "Confirmed EA date",
+      "h2": "Confirmed Early Access date",
       "paragraphs": [
         "Sandustry entered Steam Early Access on August 13, 2026.",
-        "The store page has noted a planned Early Access period on the order of about one year, with more buildings, resources, production chains, quests, and technologies planned."
+        "The store page has noted a planned Early Access period on the order of about one year.",
+        "During EA, Steam messaging points to more buildings, resources, production chains, quests, and technologies."
+      ]
+    },
+    {
+      "h2": "What “Early Access” means for players",
+      "paragraphs": [
+        "Systems, UI, and balance can change between patches.",
+        "Guides that invent permanent ratios go stale quickly — prefer official wiki + patch notes.",
+        "Buying EA supports ongoing development; it is not a promise that every wishlist feature ships on your schedule."
       ]
     },
     {
       "h2": "How to track changes",
       "paragraphs": [
-        "Follow Steam news on the main app page, the official Discord, Reddit r/SandustryGame, YouTube @sandustry, and the official wiki hosted with Hooded Horse.",
-        "Fan sites (including this one) lag patches. Prefer primary sources for unlock tables and balance."
+        "Steam news on the main app page (2764460).",
+        "Official Discord: https://discord.gg/HJNk5eMnmt",
+        "Reddit: r/SandustryGame",
+        "YouTube: @sandustry",
+        "Official wiki hosted with Hooded Horse",
+        "Fan sites (including this one) lag patches — use us for orientation, not as a patch oracle."
       ]
     },
     {
-      "h2": "1.0 timing",
+      "h2": "Demo timing vs EA timing",
+      "paragraphs": [
+        "A free demo exists as a separate Steam app and is the right place to test the loop before buying.",
+        "Demo availability and EA patches are not the same calendar. Check both store pages if a feature seems “missing.”"
+      ]
+    },
+    {
+      "h2": "1.0 / full release timing",
       "paragraphs": [
         "No separate full 1.0 date is treated as locked here beyond the EA window language on Steam.",
-        "Revisit the store page and developer posts for leaving-Early-Access announcements."
+        "Revisit the store page and developer posts for leaving-Early-Access announcements.",
+        "Until then, plan your learning around evergreen habits: dig discipline, filters, overflow, and fluid awareness."
       ]
     }
   ],
   "faq": [
     {
       "q": "Is Sandustry fully released?",
-      "a": "As of this page's research date, it is sold as Steam Early Access, not a finished 1.0 product."
+      "a": "As of this page’s research date, it is sold as Steam Early Access, not a finished 1.0 product."
+    },
+    {
+      "q": "How long will Early Access last?",
+      "a": "Steam has described a planned EA period on the order of about one year — confirm on the live store page."
+    },
+    {
+      "q": "Should I wait for 1.0?",
+      "a": "If you dislike unfinished systems, try the demo and wait. If you enjoy factories in motion, EA is the product right now."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
     "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": ["demo", "guide", "gameplay"]
+  "related": ["demo", "guide", "gameplay", "automation"]
 }

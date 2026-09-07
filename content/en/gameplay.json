@@ -1,7 +1,7 @@
 {
   "slug": "gameplay",
-  "title": "Sandustry Gameplay Overview — Dig, Refine, Automate",
-  "description": "What Sandustry gameplay feels like: pixel physics digging, refining, and factory automation from Lantto Games / Hooded Horse.",
+  "title": "Sandustry Gameplay Overview — Dig, Refine, Automate on a Sand Planet",
+  "description": "Sandustry gameplay overview: core fantasy, who it is for, platform and community, EA expectations, FAQ, and links to beginner paths.",
   "keyword": "sandustry gameplay",
   "h1": "Sandustry Gameplay Overview",
   "sections": [
@@ -9,21 +9,43 @@
       "h2": "Core fantasy",
       "paragraphs": [
         "Sandustry mixes destructible terrain with factory logistics. You reshape a sand planet pixel by pixel, extract value, and grow toward self-running production.",
-        "It sits closer to sandbox automation than to combat roguelikes."
+        "Steam describes a vast open world of biomes and industrial progression — from humble wet-sand refining toward deeper secrets and more complex chains.",
+        "It sits closer to sandbox automation than to combat roguelikes. The “enemy” is usually clogged flow, floods, and your own layout debt."
+      ]
+    },
+    {
+      "h2": "The loop in plain language",
+      "paragraphs": [
+        "Dig and reshape the world.",
+        "Sort and move materials with logistics buildings.",
+        "Refine and process toward valuable outputs.",
+        "Expand automation until the factory runs with less babysitting.",
+        "Unlock more buildings, resources, chains, quests, and technologies across Early Access."
       ]
     },
     {
       "h2": "Who it is for",
       "paragraphs": [
         "Players who like digging, belt puzzles, and watching systems stabilize.",
-        "Less ideal if you want pure action or a finished content checklist — Early Access means systems and UI still move."
+        "Players who accept Early Access: UI, balance, and content still move.",
+        "Less ideal if you want pure action combat, a finished content checklist, or zero debugging."
       ]
     },
     {
       "h2": "Platform and community",
       "paragraphs": [
-        "PC via Steam. Community hubs include Discord, Reddit r/SandustryGame, and the @sandustry YouTube channel.",
-        "Official documentation lives on the Hooded Horse Sandustry wiki."
+        "PC via Steam (main app 2764460; free demo 3490390).",
+        "Community hubs: Discord, Reddit r/SandustryGame, YouTube @sandustry.",
+        "Official documentation: Hooded Horse Sandustry wiki.",
+        "Developer / publisher: Lantto Games / Hooded Horse."
+      ]
+    },
+    {
+      "h2": "How this fan wiki fits",
+      "paragraphs": [
+        "We publish English SEO landing pages for beginner intents: guide, automation, demo, water, slag, tips, release date.",
+        "We do not replace the official wiki’s recipe depth.",
+        "Start with the Beginner Guide or Demo Guide depending on whether you already own EA."
       ]
     }
   ],
@@ -31,12 +53,21 @@
     {
       "q": "Is Sandustry multiplayer?",
       "a": "Treat single-player factory focus as the default pitch unless Steam features explicitly list multiplayer for your build. Always re-check the store page."
+    },
+    {
+      "q": "Is Sandustry like Factorio / Noita / other sandboxes?",
+      "a": "It shares factory-automation DNA and destructible-pixel vibes, but you should judge it on the Steam demo rather than analogy charts."
+    },
+    {
+      "q": "Where do I start on this site?",
+      "a": "Demo Guide if undecided; Beginner Guide if you already own Early Access; Automation Tips when belts hurt."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
     "https://www.reddit.com/r/SandustryGame",
-    "https://www.youtube.com/@sandustry"
+    "https://www.youtube.com/@sandustry",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
   ],
-  "related": ["guide", "demo", "release-date"]
+  "related": ["guide", "demo", "release-date", "automation", "tips"]
 }

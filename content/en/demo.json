@@ -1,44 +1,88 @@
 {
   "slug": "demo",
-  "title": "Sandustry Demo Guide — What to Test Before Buying",
-  "description": "Sandustry Steam demo checklist: performance, core loop, and how the free demo differs from Early Access.",
+  "title": "Sandustry Demo Guide — Free Steam Demo Checklist Before Buying",
+  "description": "Sandustry demo guide: where to download, 30–60 minute checklist, performance tests, demo vs Early Access, FAQ, and buy criteria.",
   "keyword": "sandustry demo",
   "h1": "Sandustry Demo Guide",
+  "note": "Demo and full Early Access are separate Steam apps. Confirm save transfer claims on the store pages or patch notes — do not assume cloud saves migrate.",
   "sections": [
     {
       "h2": "Where to get the demo",
       "paragraphs": [
-        "The free Sandustry Demo is on Steam as a separate app (3490390). Reviews on the demo page have been Very Positive.",
-        "Use it to validate FPS, controls, and whether the dig–refine–automate fantasy clicks for you."
+        "The free Sandustry Demo is on Steam as app 3490390. Reviews on the demo page have been Very Positive.",
+        "The paid Early Access build is app 2764460. Use the demo to validate fun and performance before spending money.",
+        "Official community links (Discord, Reddit, YouTube) are useful after a session to compare demo limits with current EA complaints."
+      ]
+    },
+    {
+      "h2": "What the demo is for",
+      "paragraphs": [
+        "Confirm the dig–refine–automate fantasy clicks for you personally.",
+        "Check whether pixel physics feels readable on your machine.",
+        "Test early logistics: at least one conveyor / launcher path and watching materials move.",
+        "It is not a substitute for the full EA content roadmap Steam describes (more buildings, resources, chains, quests, technologies)."
       ]
     },
     {
       "h2": "30–60 minute checklist",
       "paragraphs": [
-        "Dig and reshape terrain until physics feel readable.",
-        "Complete the early refine / gold-oriented intro loop.",
-        "Place at least one conveyor or logistics building and watch material flow.",
-        "Stress your PC with a denser dig and more buildings — factory games spike CPU/GPU late.",
-        "Skim Discord or Reddit after playing to see current EA complaints versus demo limits."
+        "Install and launch with default settings first. Note FPS in an open dig.",
+        "Reshape terrain until you understand collapse / flood risk.",
+        "Complete the early refine / gold-oriented intro loop Steam markets.",
+        "Place logistics and watch a belt for a full minute — not just a screenshot moment.",
+        "Intentionally create a small clog, then clear it with sorting / overflow thinking. That skill transfers to EA.",
+        "Increase dig density and building count. Factory games spike late; quit early if your PC already struggles.",
+        "Write down one sentence: “I want more of this” or “This is not for me.” Buy decisions get worse when you only remember trailer vibes."
+      ]
+    },
+    {
+      "h2": "Performance and comfort checks",
+      "paragraphs": [
+        "Watch CPU/GPU when many pixels are moving. Stutter now usually gets worse in larger EA factories.",
+        "Try your preferred input (mouse/keyboard). If controls feel hostile in the demo, they will not magically become cozy in EA.",
+        "If you play on a laptop, run a plugged-in session and a battery session. Thermal throttling lies to wishlist optimism."
       ]
     },
     {
       "h2": "Demo vs Early Access",
       "paragraphs": [
-        "Expect the full EA build (app 2764460) to go deeper on buildings, resources, production chains, quests, and technologies — Steam's EA notes describe roughly a year of planned content.",
-        "The demo is a taste, not a complete substitute. Wishlist or buy only after the loop feels good."
+        "Steam’s EA notes for the main app describe roughly a year of planned updates with more buildings, resources, production chains, quests, and technologies.",
+        "Expect the demo to be a slice. Missing systems are not necessarily “bugs” — they may simply be outside the demo scope.",
+        "After the demo, skim recent Steam news and Discord before buying if you care about a specific feature that was missing."
+      ]
+    },
+    {
+      "h2": "Buy criteria (honest)",
+      "paragraphs": [
+        "Buy if you enjoyed digging + sorting + watching a line stabilize, and your PC held up.",
+        "Wait if you only liked the trailer aesthetic but disliked inventory walking or fluid chaos in the demo.",
+        "Wishlist and revisit after a major patch if EA depth is the blocker — follow release-date notes and Steam news."
       ]
     }
   ],
   "faq": [
     {
       "q": "Does the demo progress transfer?",
-      "a": "Treat demo and full game as separate unless Steam or the developer explicitly says otherwise in patch notes. Check the demo and main store pages before assuming cloud saves migrate."
+      "a": "Treat demo and full game as separate unless Steam or the developer explicitly says otherwise in patch notes."
+    },
+    {
+      "q": "Is the demo the full game?",
+      "a": "No. It is a free taste. Early Access is the paid deeper build."
+    },
+    {
+      "q": "Demo reviews vs main game reviews?",
+      "a": "Demo has been Very Positive; the main EA page has been Overwhelmingly Positive in our research pass — always re-check Steam for the live tally."
+    },
+    {
+      "q": "What should I read after the demo?",
+      "a": "Beginner Guide and Automation Tips on this site, plus the official wiki for patch-sensitive details."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
-    "https://store.steampowered.com/app/2764460/Sandustry/"
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": ["guide", "release-date", "gameplay"]
+  "related": ["guide", "release-date", "gameplay", "automation", "tips"]
 }

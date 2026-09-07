@@ -1,45 +1,72 @@
 {
   "slug": "release-date",
-  "title": "Sandustry 发售日 — 抢先体验 2026-08-13",
-  "description": "Sandustry 抢先体验日期、计划 EA 窗口，以及如何关注 Lantto Games / Hooded Horse 更新。",
-  "keyword": "sandustry 发售日",
+  "title": "Sandustry 发布日 — 抢先体验 2026 年 8 月 13 日与路线图说明",
+  "description": "Sandustry 抢先体验日期（2026 年 8 月 13 日）、计划 EA 窗口、如何跟踪更新、1.0 状态、FAQ 与官方渠道。",
+  "keyword": "sandustry 发布日",
   "h1": "Sandustry 抢先体验日期",
+  "note": "日期与路线图措辞可能变更。围绕 1.0 做计划前，请再查 Steam 商店页与开发者动态。",
   "sections": [
     {
-      "h2": "已确认的 EA 日期",
+      "h2": "已确认的抢先体验日期",
       "paragraphs": [
-        "Sandustry 于 2026-08-13 进入 Steam 抢先体验。",
-        "商店页注明计划中的抢先体验约一年，并计划加入更多建筑、资源、产线、任务与科技。"
+        "Sandustry 于 2026 年 8 月 13 日进入 Steam 抢先体验。",
+        "商店页注明计划抢先体验周期大约一年量级。",
+        "EA 期间，Steam 文案指向更多建筑、资源、产线、任务与科技。"
       ]
     },
     {
-      "h2": "如何跟踪更新",
+      "h2": "「抢先体验」对玩家意味着什么",
       "paragraphs": [
-        "关注本体商店页 Steam 新闻、官方 Discord、Reddit r/SandustryGame、YouTube @sandustry，以及 Hooded Horse 托管的官方 Wiki。",
-        "粉丝站（包括本站）会落后于补丁。解锁表与平衡请优先看一手来源。"
+        "系统、UI 与平衡可能在补丁之间变动。",
+        "编造永久配比的攻略会很快过时——优先官方 Wiki + 补丁说明。",
+        "购买 EA 是支持持续开发；它不保证每个愿望清单功能按你的时间表上线。"
       ]
     },
     {
-      "h2": "1.0 时间",
+      "h2": "如何跟踪变更",
       "paragraphs": [
-        "除 Steam 上的 EA 窗口表述外，本页不把单独的完整 1.0 日期当作已锁定信息。",
-        "离开抢先体验的公告，请回看商店页与开发组动态。"
+        "主应用页（2764460）上的 Steam 新闻。",
+        "官方 Discord：https://discord.gg/HJNk5eMnmt",
+        "Reddit：r/SandustryGame",
+        "YouTube：@sandustry",
+        "由 Hooded Horse 托管的官方 Wiki",
+        "粉丝站（包括本站）会落后补丁——用我们做定向，而不是当补丁神谕。"
+      ]
+    },
+    {
+      "h2": "Demo 时间线对比 EA 时间线",
+      "paragraphs": [
+        "免费 Demo 是独立 Steam 应用，买前测循环的正确位置。",
+        "Demo 可用性与 EA 补丁不是同一本日历。若某功能看起来「缺失」，请两边商店页都查。"
+      ]
+    },
+    {
+      "h2": "1.0 / 完整版时机",
+      "paragraphs": [
+        "除 Steam 上的 EA 窗口措辞外，此处不把单独的完整 1.0 日期当作已锁定。",
+        "离开抢先体验的公告，请回看商店页与开发者动态。",
+        "在那之前，用常青习惯学：挖沙纪律、过滤器、溢流与流体意识。"
       ]
     }
   ],
   "faq": [
     {
-      "q": "Sandustry 已经完全发售了吗？",
-      "a": "以本页研究时点为准，它以 Steam 抢先体验售卖，不是成品 1.0。"
+      "q": "Sandustry 已完整发售了吗？",
+      "a": "截至本页调研时，它按 Steam 抢先体验销售，不是完成的 1.0 产品。"
+    },
+    {
+      "q": "抢先体验会持续多久？",
+      "a": "Steam 描述计划 EA 周期大约一年量级——请以线上商店页为准。"
+    },
+    {
+      "q": "该等 1.0 吗？",
+      "a": "若讨厌未完成系统，先试 Demo 再等。若享受运动中的工厂，EA 就是当下的产品。"
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
     "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": [
-    "demo",
-    "guide",
-    "gameplay"
-  ]
+  "related": ["demo", "guide", "gameplay", "automation"]
 }

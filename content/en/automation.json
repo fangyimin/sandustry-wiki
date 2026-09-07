@@ -1,55 +1,109 @@
 {
   "slug": "automation",
-  "title": "Sandustry Automation Tips — Conveyors, Filters & Flow",
-  "description": "Sandustry automation habits: belt layout, filters, launchers, and how to stop hand-carrying materials in Early Access.",
+  "title": "Sandustry Automation Tips — Conveyors, Filters, Launchers & Flow",
+  "description": "Practical Sandustry automation habits for Early Access: when to automate, belt layouts, filters vs wider belts, overflow, rebuild discipline, and FAQ.",
   "keyword": "sandustry automation",
   "h1": "Sandustry Automation Tips",
+  "note": "Building unlock order, ratios, and drone behavior change in Early Access. Use principles here; verify numbers on the official wiki and patch notes.",
   "sections": [
     {
       "h2": "Automate the painful step first",
       "paragraphs": [
-        "Do not blueprint a megabase on day one. Automate whatever currently wastes the most clicks — usually horizontal transport, vertical lifts, or sorting mixed dig output.",
-        "Steam's feature list centers conveyors, launchers, filters, fluids, and later drones and deeper tech."
+        "Do not start with a megabase blueprint. Automate whatever currently wastes the most clicks — usually horizontal hauling, vertical lifts, or sorting mixed dig output.",
+        "Steam’s feature list centers conveyors, launchers, filters, fluids, and later drones plus deeper tech. Early progress almost always leans on belts and filters before drones.",
+        "A ugly temporary line that runs is worth more than a beautiful plan that still needs hand-carrying."
+      ]
+    },
+    {
+      "h2": "A minimal flow model that scales",
+      "paragraphs": [
+        "Keep four stages visible even when tiny: dig face → buffer → refine / process → sink / storage.",
+        "Buffers absorb dig spikes so refiners do not starve or choke on unsorted floods.",
+        "Sinks matter. If valuable output has nowhere to go, the whole line looks “broken.”",
+        "When you expand, extend one stage at a time and re-check the junction behind it."
       ]
     },
     {
       "h2": "Layout habits that survive rebuilds",
       "paragraphs": [
         "Leave spare tile width for a second belt before the first belt is full.",
-        "Separate dig face → buffer → refine → sink, even if the first version is tiny.",
         "Put filters before merges, not after a clogged junction.",
-        "Keep power, heat, and fluid lines readable; pixel factories die to spaghetti you cannot diagnose.",
+        "Keep walkways and rebuild lanes. Pixel factories get entombed by their own sand.",
+        "Keep power / heat / fluid lines readable. If you cannot diagnose it at a glance, you will rebuild it angry.",
+        "Prefer straight short segments over clever spaghetti on day one.",
         "Rebuild in slices: replace one segment, run it, then extend."
       ]
     },
     {
       "h2": "Filters beat bigger belts",
       "paragraphs": [
-        "When sand, slag, and ore share one path, throughput looks fine until one material floods the line. Filtering early is usually cheaper than widening everything.",
-        "Treat a mystery pile at the junction as a design bug, not a dig problem."
+        "When sand, slag, and ore share one path, throughput looks fine until one material floods the line.",
+        "Filtering early is usually cheaper than widening everything and still sorting nothing.",
+        "Treat a mystery pile at a junction as a design bug, not a dig shortage.",
+        "If you need a rule of thumb: sort before you scale."
       ]
     },
     {
-      "h2": "EA reality check",
+      "h2": "Overflow, backups, and “why did everything stop?”",
       "paragraphs": [
-        "Exact building unlock order, ratios, and drone behavior change during Early Access. Use this page for principles; verify numbers on the official wiki and patch notes.",
-        "Pair with the Beginner Guide and Slag & Processing when byproducts stall the line."
+        "Factory stoppages often start as a full sink or a polluted merge, not as a missing machine.",
+        "Give overflow somewhere intentional — a dump lane, a buffered spur, a temporary pit — so the main path can recover.",
+        "When stuck, watch one junction for thirty seconds. Identify the material that arrives but never leaves.",
+        "Only then add machines. More buildings on a polluted belt amplify the clog."
+      ]
+    },
+    {
+      "h2": "Vertical moves and launchers",
+      "paragraphs": [
+        "Steam markets launchers alongside conveyors because dig faces are not flat forever.",
+        "Plan vertical moves as first-class logistics, not afterthoughts bolted onto a horizontal mess.",
+        "If you are climbing/descending constantly with inventory, that is your next automation target."
+      ]
+    },
+    {
+      "h2": "When drones and deep tech matter",
+      "paragraphs": [
+        "Steam EA messaging includes drones and deeper technologies later in the journey. That does not mean they are the correct first unlock for every stuck beginner.",
+        "If belts and filters already solve the bottleneck, unlock glitter later. If you are pathing materials across awkward terrain repeatedly, revisit deeper logistics after reading current patch notes."
+      ]
+    },
+    {
+      "h2": "Related reading",
+      "paragraphs": [
+        "Beginner Guide — first-hour loop and recovery playbook.",
+        "Slag & Processing — byproduct lanes that protect the valuable path.",
+        "Water Basics — fluid routing that breaks dry logistics assumptions.",
+        "Quick Tips — short habits checklist.",
+        "Buildings hub — role overview without invented ratios."
       ]
     }
   ],
   "faq": [
     {
       "q": "Should I automate before expanding the dig?",
-      "a": "If you are hand-carrying more than you dig, yes. Expanding dig volume without logistics just creates a prettier backlog."
+      "a": "If you are hand-carrying more than you dig, yes. Expanding dig volume without logistics creates a prettier backlog."
     },
     {
       "q": "Are drones required early?",
-      "a": "Steam markets drones among deeper and later tech. Early progress usually leans on conveyors, launchers, and filters first."
+      "a": "Steam markets drones among deeper / later tech. Early progress usually leans on conveyors, launchers, and filters first."
+    },
+    {
+      "q": "Why does adding more belts make things worse?",
+      "a": "You may be multiplying an unsorted merge. Fix filters and overflow before doubling belt count."
+    },
+    {
+      "q": "How big should the first factory be?",
+      "a": "Small enough that you can see every junction. Scale only after dig → buffer → refine → sink is stable."
+    },
+    {
+      "q": "Where do exact ratios live?",
+      "a": "Official Hooded Horse wiki, Steam news, and in-game tooltips — not on this principle page."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
-    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": ["guide", "slag", "tips"]
+  "related": ["guide", "slag", "water", "tips"]
 }

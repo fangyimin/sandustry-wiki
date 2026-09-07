@@ -1,48 +1,88 @@
 {
   "slug": "demo",
-  "title": "Sandustry Demo 指南 — 购买前该测什么",
-  "description": "Sandustry Steam Demo 清单：性能、核心循环，以及免费 Demo 与抢先体验的差异。",
+  "title": "Sandustry Demo 指南 — 买前免费 Steam 试玩清单",
+  "description": "Sandustry Demo 指南：下载位置、30–60 分钟清单、性能测试、Demo 与抢先体验对比、FAQ 与购买标准。",
   "keyword": "sandustry demo",
   "h1": "Sandustry Demo 指南",
+  "note": "Demo 与完整抢先体验是不同的 Steam 应用。存档迁移说法请以商店页或补丁说明为准——不要假设云存档会迁移。",
   "sections": [
     {
-      "h2": "Demo 在哪里拿",
+      "h2": "Demo 从哪下载",
       "paragraphs": [
-        "免费 Sandustry Demo 在 Steam 上是独立应用（3490390）。Demo 页评价为好评如潮。",
-        "用它验证帧率、手感，以及「挖掘—精炼—自动化」这套幻想是否对你有吸引力。"
+        "免费 Sandustry Demo 在 Steam，应用 ID 3490390。Demo 页评价一直是 Very Positive（好评如潮）。",
+        "付费抢先体验版本是 app 2764460。先用 Demo 验证乐趣与性能，再花钱。",
+        "官方社区链接（Discord、Reddit、YouTube）适合开完一局后，对照 Demo 上限与当前 EA 吐槽。"
+      ]
+    },
+    {
+      "h2": "Demo 是用来干什么的",
+      "paragraphs": [
+        "确认「挖—炼—自动化」幻想是否真的戳中你。",
+        "检查像素物理在你机器上是否可读、可跟。",
+        "测试早期物流：至少一条传送带 / 发射器路径，并盯着材料真正在动。",
+        "它不是 Steam 描述的完整 EA 内容路线图（更多建筑、资源、产线、任务、科技）的替代品。"
       ]
     },
     {
       "h2": "30–60 分钟清单",
       "paragraphs": [
-        "挖并重塑地形，直到物理手感可读。",
-        "完成早期精炼 / 面向黄金的引导循环。",
-        "至少放一座传送带或物流建筑，观察材料流动。",
-        "用更密的挖面和更多建筑压测你的电脑 — 工厂游戏后期会吃 CPU/GPU。",
-        "玩完后扫一眼 Discord 或 Reddit，区分当前 EA 吐槽与 Demo 限制。"
+        "先用默认设置安装启动。在开阔挖区记下帧率。",
+        "改造地形，直到你理解塌方 / 洪水风险。",
+        "完成 Steam 主打的早期精炼 / 淘金向入门循环。",
+        "放置物流，盯着一条带整整一分钟——不是只截个好看的瞬间。",
+        "故意制造一次小堵塞，再用分拣 / 溢流思路清掉。这项技能能带到 EA。",
+        "提高挖密度与建筑数量。工厂游戏后期会尖刺；若电脑现在就吃力，趁早退出。",
+        "写下一句话：「我想要更多」或「这不适合我」。只记得预告片氛围时，购买决策会变差。"
       ]
     },
     {
-      "h2": "Demo 与抢先体验",
+      "h2": "性能与手感检查",
       "paragraphs": [
-        "完整 EA 本体（app 2764460）在建筑、资源、产线、任务与科技上会更深 — Steam EA 说明约有一年计划内容。",
-        "Demo 是试吃，不是完整替代。只有循环手感对了再愿望单或购买。"
+        "大量像素在动时盯 CPU/GPU。现在卡顿，通常在更大的 EA 工厂里会更糟。",
+        "试用你偏好的输入（键鼠）。若 Demo 里操作已敌对，EA 里不会神奇变舒适。",
+        "若用笔记本，分别跑插电局与电池局。热节流会对愿望单乐观主义撒谎。"
+      ]
+    },
+    {
+      "h2": "Demo 对比抢先体验",
+      "paragraphs": [
+        "Steam 对主应用的 EA 说明描述约一年计划更新，含更多建筑、资源、产线、任务与科技。",
+        "把 Demo 当成切片。缺失系统不一定是「bug」——可能只是超出 Demo 范围。",
+        "Demo 之后，若你在意某个缺失功能，买前先扫最近 Steam 新闻与 Discord。"
+      ]
+    },
+    {
+      "h2": "购买标准（诚实版）",
+      "paragraphs": [
+        "若你享受挖掘 + 分拣 + 看一条线稳住，且电脑扛得住——可以买。",
+        "若你只喜欢预告片美学，却讨厌 Demo 里的库存走路或流体混乱——先等等。",
+        "若卡在 EA 深度，可愿望单并在大补丁后回来——跟发布日说明与 Steam 新闻。"
       ]
     }
   ],
   "faq": [
     {
-      "q": "Demo 进度会继承吗？",
-      "a": "除非 Steam 或开发组在补丁说明中明确说可迁移，否则把 Demo 与本体当成分开的。假设云存档可迁移前，先看 Demo 与本体商店页。"
+      "q": "Demo 进度会迁移吗？",
+      "a": "除非 Steam 或开发者在补丁说明里明确说会，否则把 Demo 与完整游戏当成分开的。"
+    },
+    {
+      "q": "Demo 就是完整游戏吗？",
+      "a": "不是。它是免费试吃。抢先体验才是付费的更深版本。"
+    },
+    {
+      "q": "Demo 评价对比主游戏评价？",
+      "a": "Demo 为 Very Positive；主 EA 页在我们调研时为 Overwhelmingly Positive——请以 Steam 实时计数为准。"
+    },
+    {
+      "q": "Demo 之后该读什么？",
+      "a": "本站的新手指南与自动化技巧，以及官方 Wiki 上补丁敏感的细节。"
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
-    "https://store.steampowered.com/app/2764460/Sandustry/"
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://discord.gg/HJNk5eMnmt"
   ],
-  "related": [
-    "guide",
-    "release-date",
-    "gameplay"
-  ]
+  "related": ["guide", "release-date", "gameplay", "automation", "tips"]
 }

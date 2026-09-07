@@ -1,46 +1,73 @@
 {
   "slug": "gameplay",
-  "title": "Sandustry 玩法总览 — 挖掘、精炼、自动化",
-  "description": "Sandustry 玩法手感：像素物理挖掘、精炼与工厂自动化（Lantto Games / Hooded Horse）。",
+  "title": "Sandustry 玩法概览 — 在沙星上挖、炼、自动化",
+  "description": "Sandustry 玩法概览：核心幻想、适合谁、平台与社区、EA 预期、FAQ，以及通往新手路径的链接。",
   "keyword": "sandustry 玩法",
-  "h1": "Sandustry 玩法总览",
+  "h1": "Sandustry 玩法概览",
   "sections": [
     {
       "h2": "核心幻想",
       "paragraphs": [
-        "Sandustry 把可破坏地形与工厂物流混在一起。你一像素一像素重塑沙星、提取价值，并走向自我运转的生产。",
-        "它更接近沙盒自动化，而不是战斗向肉鸽。"
+        "Sandustry 把可破坏地形与工厂物流混在一起。你一像素一像素重塑沙星，提取价值，并向自运行生产成长。",
+        "Steam 描述广阔开放世界、生物群系与工业进程——从谦卑的湿沙精炼，走向更深秘密与更复杂产线。",
+        "它更接近沙盒自动化，而不是战斗 roguelike。「敌人」通常是堵塞的流量、洪水，以及你自己的布局债务。"
+      ]
+    },
+    {
+      "h2": "用人话讲循环",
+      "paragraphs": [
+        "挖掘并重塑世界。",
+        "用物流建筑分拣与移动材料。",
+        "精炼与加工，通向有价值产出。",
+        "扩展自动化，直到工厂少需看护也能跑。",
+        "在抢先体验中解锁更多建筑、资源、产线、任务与科技。"
       ]
     },
     {
       "h2": "适合谁",
       "paragraphs": [
-        "喜欢挖掘、传送带谜题，以及看着系统稳定下来的玩家。",
-        "若你想要纯动作或已完工的内容清单，可能不太适合 — 抢先体验意味着系统与 UI 仍在变动。"
+        "喜欢挖、带谜题，以及看系统稳住的玩家。",
+        "接受抢先体验的玩家：UI、平衡与内容仍在变动。",
+        "若你想要纯动作战斗、一份做完的内容清单，或零调试——就不太理想。"
       ]
     },
     {
       "h2": "平台与社区",
       "paragraphs": [
-        "PC 走 Steam。社区包括 Discord、Reddit r/SandustryGame，以及 @sandustry YouTube 频道。",
-        "官方文档在 Hooded Horse 的 Sandustry Wiki。"
+        "PC，经 Steam（主应用 2764460；免费 Demo 3490390）。",
+        "社区枢纽：Discord、Reddit r/SandustryGame、YouTube @sandustry。",
+        "官方文档：Hooded Horse Sandustry Wiki。",
+        "开发 / 发行：Lantto Games / Hooded Horse。"
+      ]
+    },
+    {
+      "h2": "本粉丝 Wiki 如何定位",
+      "paragraphs": [
+        "我们发布面向新手意图的 SEO 落地页：指南、自动化、Demo、水、炉渣、技巧、发布日。",
+        "我们不替代官方 Wiki 的配方深度。",
+        "已拥有 EA 则从新手指南起步；未决定则从 Demo 指南起步。"
       ]
     }
   ],
   "faq": [
     {
       "q": "Sandustry 有多人吗？",
-      "a": "默认按单人工厂向理解，除非你当前版本的 Steam 功能明确列出多人。务必再核对商店页。"
+      "a": "除非 Steam 功能明确列出你版本的多人，否则默认按单人工厂重点理解。请随时再查商店页。"
+    },
+    {
+      "q": "Sandustry 像 Factorio / Noita / 其他沙盒吗？",
+      "a": "它共享工厂自动化 DNA 与可破坏像素气质，但请用 Steam Demo 判断，而不是类比表。"
+    },
+    {
+      "q": "本站从哪开始？",
+      "a": "未决定买 → Demo 指南；已有抢先体验 → 新手指南；传送带开始痛 → 自动化技巧。"
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
     "https://www.reddit.com/r/SandustryGame",
-    "https://www.youtube.com/@sandustry"
+    "https://www.youtube.com/@sandustry",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
   ],
-  "related": [
-    "guide",
-    "demo",
-    "release-date"
-  ]
+  "related": ["guide", "demo", "release-date", "automation", "tips"]
 }

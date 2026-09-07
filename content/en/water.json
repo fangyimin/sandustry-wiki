@@ -1,43 +1,70 @@
 {
   "slug": "water",
-  "title": "Sandustry Water Basics — Wet Sand, Fluids & Pipes",
-  "description": "High-level Sandustry water and fluid tips: wet sand, flooding digs, and why pipes matter in Early Access.",
+  "title": "Sandustry Water Basics — Wet Sand, Floods, Pipes & Early Fluids",
+  "description": "Sandustry water and fluid basics for Early Access: why wet sand matters, flood habits, pipe discipline, FAQ, and official sources.",
   "keyword": "sandustry water",
   "h1": "Sandustry Water Basics",
+  "note": "Exact fluid rules, heat interactions, and building unlocks change in EA. Cross-check the official wiki and tooltips for current mechanics.",
   "sections": [
     {
       "h2": "Why water shows up early",
       "paragraphs": [
         "Steam and community chatter both treat fluids as part of the fantasy — wet sand, pumps, and pipes sit next to conveyors in the automation story.",
-        "Digging without watching moisture can bury machines or starve refining loops that expect wet material."
+        "The marketed early loop literally involves refining wet sand toward gold. Moisture is not a late-game curiosity.",
+        "Digging without watching water can bury machines, starve refiners that expect wet input, or create unreachable flooded pockets."
       ]
     },
     {
-      "h2": "Practical habits",
+      "h2": "Read the dig face like a risk map",
       "paragraphs": [
-        "Watch the dig face for unexpected floods before placing fragile logistics.",
-        "Keep a dry buffer zone around key refiners if water is migrating.",
+        "Before placing fragile logistics, scan for unexpected moisture migration.",
+        "A beautiful belt through a future flood channel is a rebuild waiting to happen.",
+        "If you must dig near water, leave a dry buffer zone around key refiners and junctions."
+      ]
+    },
+    {
+      "h2": "Practical fluid habits",
+      "paragraphs": [
         "Learn one pump and pipe path before branching a full fluid network.",
-        "When stuck, pause digging and fix fluid routing — more sand rarely fixes a flooded belt."
+        "Keep fluid lines visually separate from belt spaghetti when you can.",
+        "When stuck, pause digging and fix fluid routing — more sand rarely fixes a flooded belt.",
+        "Treat fluid overflows with the same seriousness as belt overflows: intentional sinks beat mystery puddles."
       ]
     },
     {
-      "h2": "Verify in-game",
+      "h2": "How fluids interact with automation thinking",
       "paragraphs": [
-        "Exact fluid rules, heat interactions, and building unlocks change in EA.",
-        "Cross-check the official Hooded Horse Sandustry wiki and current patch notes for recipes and building names."
+        "A “dry” logistics plan can fail because the refine recipe expects wet material — or because water displaced your sorted lanes.",
+        "Filters and dumps still matter when fluids are involved; wet chaos plus unsorted belts is a double clog.",
+        "After any major fluid change, re-watch the refine input junction for thirty seconds."
+      ]
+    },
+    {
+      "h2": "Verify in-game and on official pages",
+      "paragraphs": [
+        "Building names, unlock order, and heat interactions belong to the current patch.",
+        "Use the Hooded Horse Sandustry wiki and Steam news for authoritative details.",
+        "Then return to Automation Tips and the Beginner Guide for layout habits that still apply."
       ]
     }
   ],
   "faq": [
     {
       "q": "Is water required for gold?",
-      "a": "Steam's marketing highlights refining wet sand toward gold. Treat that as the intended early fantasy, and confirm steps in your current build and the official wiki."
+      "a": "Steam marketing highlights refining wet sand toward gold. Treat that as the intended early fantasy, and confirm steps in your build / official wiki."
+    },
+    {
+      "q": "Should I pipe everything on day one?",
+      "a": "No. Get one correct wet path working, then expand. Fluid mazes are hard to debug."
+    },
+    {
+      "q": "My base flooded — dig more exits?",
+      "a": "Stabilize routing and protect machines first. Extra holes can spread the flood."
     }
   ],
   "sources": [
     "https://store.steampowered.com/app/2764460/Sandustry/",
     "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
   ],
-  "related": ["guide", "automation", "slag"]
+  "related": ["guide", "automation", "slag", "tips"]
 }
