@@ -1,0 +1,36 @@
+{
+  "gameName": "Sandustry",
+  "siteName": "Sandustry Wiki",
+  "siteUrl": "https://playsandustry.online",
+  "locale": "en",
+  "theme": {
+    "background": "#0b0f12",
+    "foreground": "#f3efe6",
+    "amber": "38 72% 48%",
+    "amberLight": "42 78% 58%"
+  },
+  "links": {
+    "website": "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "steam": "https://store.steampowered.com/app/2764460/Sandustry/",
+    "demo": "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "discord": "https://discord.gg/HJNk5eMnmt",
+    "youtube": "https://www.youtube.com/@sandustry",
+    "trailer": "https://www.youtube.com/@sandustry",
+    "reddit": "https://www.reddit.com/r/SandustryGame"
+  },
+  "nav": [
+    { "href": "/", "label": "Home" },
+    { "href": "/guide", "label": "Guide" },
+    { "href": "/modules", "label": "Buildings" },
+    { "href": "/automation", "label": "Automation" },
+    { "href": "/demo", "label": "Demo" },
+    { "href": "/release-date", "label": "EA Date" }
+  ],
+  "seo": {
+    "defaultTitle": "Sandustry Wiki — Guide, Automation & Demo",
+    "titleTemplate": "%s | Sandustry Wiki",
+    "description": "Fan-made Sandustry wiki for Early Access: beginner guide, automation tips, demo notes, water and slag basics from Steam and official channels.",
+    "keywords": ["Sandustry", "Sandustry wiki", "Sandustry guide", "automation", "demo", "Hooded Horse"]
+  },
+  "reservedRoutes": ["modules", "about", "contact", "privacy"]
+}

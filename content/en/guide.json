@@ -1,0 +1,63 @@
+{
+  "slug": "guide",
+  "title": "Sandustry Beginner Guide — First Hours in Early Access",
+  "description": "A practical Sandustry beginner guide: dig sand, refine value, place early conveyors, and avoid common Early Access bottlenecks.",
+  "keyword": "sandustry guide",
+  "h1": "Sandustry Beginner Guide",
+  "note": "Early Access systems change. Prefer Steam news and the official Hooded Horse wiki for patch-sensitive recipes.",
+  "sections": [
+    {
+      "h2": "What you are trying to do",
+      "paragraphs": [
+        "Sandustry is a dig-and-automate sandbox. The Steam pitch is simple: dig into a living sand planet, sift value from materials (starting with wet sand toward gold), then replace manual hauling with buildings that move, filter, and process pixels for you.",
+        "Your first session should answer three questions: Can I dig safely? Can I refine something valuable? Can I move materials without walking every load?"
+      ]
+    },
+    {
+      "h2": "Suggested first-hour loop",
+      "paragraphs": [
+        "Dig a compact starter pit near your first refining setup instead of tunneling randomly.",
+        "Follow the in-game prompts and early objectives for the shaker–refine path Steam highlights.",
+        "Place a short conveyor or launcher as soon as throughput hurts — do not wait until the base is huge.",
+        "Keep one clear dump zone so sand, ore, and byproducts do not bury your machines.",
+        "Save a clean layout snapshot before big digs; pixel physics means mistakes cascade."
+      ]
+    },
+    {
+      "h2": "Early bottlenecks players report",
+      "paragraphs": [
+        "Mixing every material on one belt without filters.",
+        "Ignoring water and wet sand interactions until the dig floods or dries the wrong zone.",
+        "Expanding the dig face faster than refining capacity.",
+        "Treating the free demo and full EA as identical — content depth differs; use the demo to check performance and the core loop."
+      ]
+    },
+    {
+      "h2": "Where to go next",
+      "paragraphs": [
+        "Read Automation Tips for belt and filter habits, Water Basics if fluids are blocking progress, and the Demo Guide if you have not bought Early Access yet.",
+        "For patch-level recipes and building stats, cross-check the official Hooded Horse wiki and Steam news — this fan site stays high-level so EA churn does not invent false numbers."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Sandustry free?",
+      "a": "There is a free Steam demo. The full game is paid Early Access on Steam (app 2764460)."
+    },
+    {
+      "q": "When did Early Access launch?",
+      "a": "Steam lists Early Access on August 13, 2026, with roughly a year of planned EA updates noted on the store page."
+    },
+    {
+      "q": "Who makes Sandustry?",
+      "a": "Developer Lantto Games; publisher Hooded Horse."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "related": ["automation", "demo", "water", "tips"]
+}

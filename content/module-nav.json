@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Shaker / Refining",
+    "blurb": "Steam pitch starts with sifting value from sand — refining wet sand is the early gold loop described on the store page."
+  },
+  {
+    "title": "Conveyors & Launchers",
+    "blurb": "Logistics buildings move materials horizontally and vertically so factories stop relying on pure shovel labor."
+  },
+  {
+    "title": "Filters",
+    "blurb": "Separate material flows so slag, ore, and sand do not clog the same belt — a common early bottleneck players report."
+  },
+  {
+    "title": "Fluids & Pipes",
+    "blurb": "Water and heat interact with pixel materials; pipes and pumps show up as you expand beyond dry digging."
+  },
+  {
+    "title": "Drones & Deep Tech",
+    "blurb": "Steam EA roadmap calls out more buildings, resources, production chains, quests, and technologies deeper into the planet."
+  }
+]

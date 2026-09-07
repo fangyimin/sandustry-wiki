@@ -1,0 +1,42 @@
+{
+  "slug": "gameplay",
+  "title": "Sandustry Gameplay Overview — Dig, Refine, Automate",
+  "description": "What Sandustry gameplay feels like: pixel physics digging, refining, and factory automation from Lantto Games / Hooded Horse.",
+  "keyword": "sandustry gameplay",
+  "h1": "Sandustry Gameplay Overview",
+  "sections": [
+    {
+      "h2": "Core fantasy",
+      "paragraphs": [
+        "Sandustry mixes destructible terrain with factory logistics. You reshape a sand planet pixel by pixel, extract value, and grow toward self-running production.",
+        "It sits closer to sandbox automation than to combat roguelikes."
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "paragraphs": [
+        "Players who like digging, belt puzzles, and watching systems stabilize.",
+        "Less ideal if you want pure action or a finished content checklist — Early Access means systems and UI still move."
+      ]
+    },
+    {
+      "h2": "Platform and community",
+      "paragraphs": [
+        "PC via Steam. Community hubs include Discord, Reddit r/SandustryGame, and the @sandustry YouTube channel.",
+        "Official documentation lives on the Hooded Horse Sandustry wiki."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Sandustry multiplayer?",
+      "a": "Treat single-player factory focus as the default pitch unless Steam features explicitly list multiplayer for your build. Always re-check the store page."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ],
+  "related": ["guide", "demo", "release-date"]
+}

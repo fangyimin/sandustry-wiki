@@ -1,0 +1,43 @@
+{
+  "slug": "water",
+  "title": "Sandustry Water Basics — Wet Sand, Fluids & Pipes",
+  "description": "High-level Sandustry water and fluid tips: wet sand, flooding digs, and why pipes matter in Early Access.",
+  "keyword": "sandustry water",
+  "h1": "Sandustry Water Basics",
+  "sections": [
+    {
+      "h2": "Why water shows up early",
+      "paragraphs": [
+        "Steam and community chatter both treat fluids as part of the fantasy — wet sand, pumps, and pipes sit next to conveyors in the automation story.",
+        "Digging without watching moisture can bury machines or starve refining loops that expect wet material."
+      ]
+    },
+    {
+      "h2": "Practical habits",
+      "paragraphs": [
+        "Watch the dig face for unexpected floods before placing fragile logistics.",
+        "Keep a dry buffer zone around key refiners if water is migrating.",
+        "Learn one pump and pipe path before branching a full fluid network.",
+        "When stuck, pause digging and fix fluid routing — more sand rarely fixes a flooded belt."
+      ]
+    },
+    {
+      "h2": "Verify in-game",
+      "paragraphs": [
+        "Exact fluid rules, heat interactions, and building unlocks change in EA.",
+        "Cross-check the official Hooded Horse Sandustry wiki and current patch notes for recipes and building names."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is water required for gold?",
+      "a": "Steam's marketing highlights refining wet sand toward gold. Treat that as the intended early fantasy, and confirm steps in your current build and the official wiki."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "related": ["guide", "automation", "slag"]
+}

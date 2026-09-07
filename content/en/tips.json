@@ -1,0 +1,33 @@
+{
+  "slug": "tips",
+  "title": "Sandustry Tips — Quick Habits for Cleaner Factories",
+  "description": "Short Sandustry tips for Early Access: dig discipline, filters, saves, and when to rebuild.",
+  "keyword": "sandustry tips",
+  "h1": "Sandustry Quick Tips",
+  "sections": [
+    {
+      "h2": "Quick tips",
+      "paragraphs": [
+        "Dig for a goal (space, resource, fluid control), not for dopamine tunnels.",
+        "Place filters before you think you need them.",
+        "Leave walkways and rebuild lanes — pixel bases get entombed.",
+        "Snapshot or save before terraforming under critical belts.",
+        "When stuck, watch one junction for 30 seconds instead of adding more machines.",
+        "Use the demo to profile your PC before a long EA session.",
+        "Bookmark Steam news and the official wiki for patch-sensitive numbers.",
+        "Join Discord or Reddit for layout screenshots, not as a substitute for reading tooltips."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Best tip for beginners?",
+      "a": "Automate the step you hate clicking first. Everything else is decoration until flow is stable."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://discord.gg/HJNk5eMnmt"
+  ],
+  "related": ["guide", "automation", "demo"]
+}

@@ -1,0 +1,148 @@
+{
+  "home": {
+    "meta": {
+      "title": "Sandustry Wiki — Guide, Automation & Demo",
+      "description": "Fan-made Sandustry wiki for Early Access: beginner guide, automation tips, demo notes, and factory basics from Steam and official channels."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Community Wiki",
+      "title": "Sandustry",
+      "description": "Dig, sift, and automate a living sand planet. Turn wet sand into gold, then grow conveyor empires until the factory runs itself.",
+      "stats": [
+        "Early Access Aug 13, 2026",
+        "Overwhelmingly Positive (Steam)",
+        "Demo available & Very Positive",
+        "Dev: Lantto Games",
+        "Pub: Hooded Horse"
+      ],
+      "primaryCta": "Start Beginner Guide",
+      "secondaryCta": "Automation Tips",
+      "tertiaryCta": "Play Free Demo",
+      "videoLabel": "Official Channel / Trailers"
+    },
+    "start": {
+      "eyebrow": "Start Here",
+      "title": "Your Sandustry Journey",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Beginner Guide",
+          "description": "Core loop: dig sand, refine value, place early logistics."
+        },
+        {
+          "number": "2",
+          "title": "Automation",
+          "description": "Conveyors, filters, and layouts that stop hand-carrying."
+        },
+        {
+          "number": "3",
+          "title": "Buildings Overview",
+          "description": "High-level building roles from Steam and official wiki."
+        },
+        {
+          "number": "4",
+          "title": "Demo Checklist",
+          "description": "What to try in the free demo before buying EA."
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "What is Sandustry?",
+      "paragraphs": [
+        "Sandustry is a pixel-physics sandbox factory game from Lantto Games, published by Hooded Horse. You dig into a destructible sand world, refine materials, and automate production with conveyors, filters, fluids, and deeper tech.",
+        "Steam Early Access launched August 13, 2026. The store page and EA notes point to roughly a year of updates with more buildings, resources, chains, quests, and technologies. This site is a fan companion—not the official Hooded Horse wiki."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Lantto Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Hooded Horse"
+        },
+        {
+          "label": "Platform",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "Genre",
+          "value": "Sandbox / Factory Automation"
+        },
+        {
+          "label": "Main Reviews",
+          "value": "Overwhelmingly Positive"
+        },
+        {
+          "label": "Demo Reviews",
+          "value": "Very Positive"
+        },
+        {
+          "label": "EA Window",
+          "value": "~1 year planned (store note)"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "finalCta": {
+      "title": "Ready to Automate the Sand?",
+      "description": "From first shaker runs to conveyor loops and fluid puzzles, this fan wiki tracks what players search for during Early Access.",
+      "primary": "Read the Beginner Guide",
+      "secondary": "Open on Steam"
+    }
+  },
+  "footer": {
+    "aboutTitle": "Sandustry Wiki",
+    "about": "An independent fan guide site for Sandustry.",
+    "description": "Pixel factory sandbox on Steam Early Access.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Official Discord",
+    "officialYoutube": "Sandustry YouTube",
+    "disclaimer": "Unofficial fan site. Not affiliated with Lantto Games or Hooded Horse. Game facts cite Steam and official channels; mechanics can change in EA.",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "aboutPage": "About"
+  },
+  "guides": [
+    {
+      "slug": "guide",
+      "title": "Beginner Guide",
+      "description": "First hours: dig, refine, place logistics."
+    },
+    {
+      "slug": "automation",
+      "title": "Automation Tips",
+      "description": "Belts, filters, and factory flow."
+    },
+    {
+      "slug": "demo",
+      "title": "Demo Guide",
+      "description": "What to test before buying."
+    },
+    {
+      "slug": "release-date",
+      "title": "EA Release Date",
+      "description": "August 13, 2026 and roadmap notes."
+    },
+    {
+      "slug": "water",
+      "title": "Water Basics",
+      "description": "Fluids, wet sand, and early pipes."
+    },
+    {
+      "slug": "slag",
+      "title": "Slag & Processing",
+      "description": "Byproducts and refining bottlenecks."
+    },
+    {
+      "slug": "gameplay",
+      "title": "Gameplay Overview",
+      "description": "Loop, genre, and who it is for."
+    },
+    {
+      "slug": "tips",
+      "title": "Quick Tips",
+      "description": "Short habits that save rebuild time."
+    }
+  ]
+}

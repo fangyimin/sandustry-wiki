@@ -1,0 +1,55 @@
+{
+  "slug": "automation",
+  "title": "Sandustry Automation Tips — Conveyors, Filters & Flow",
+  "description": "Sandustry automation habits: belt layout, filters, launchers, and how to stop hand-carrying materials in Early Access.",
+  "keyword": "sandustry automation",
+  "h1": "Sandustry Automation Tips",
+  "sections": [
+    {
+      "h2": "Automate the painful step first",
+      "paragraphs": [
+        "Do not blueprint a megabase on day one. Automate whatever currently wastes the most clicks — usually horizontal transport, vertical lifts, or sorting mixed dig output.",
+        "Steam's feature list centers conveyors, launchers, filters, fluids, and later drones and deeper tech."
+      ]
+    },
+    {
+      "h2": "Layout habits that survive rebuilds",
+      "paragraphs": [
+        "Leave spare tile width for a second belt before the first belt is full.",
+        "Separate dig face → buffer → refine → sink, even if the first version is tiny.",
+        "Put filters before merges, not after a clogged junction.",
+        "Keep power, heat, and fluid lines readable; pixel factories die to spaghetti you cannot diagnose.",
+        "Rebuild in slices: replace one segment, run it, then extend."
+      ]
+    },
+    {
+      "h2": "Filters beat bigger belts",
+      "paragraphs": [
+        "When sand, slag, and ore share one path, throughput looks fine until one material floods the line. Filtering early is usually cheaper than widening everything.",
+        "Treat a mystery pile at the junction as a design bug, not a dig problem."
+      ]
+    },
+    {
+      "h2": "EA reality check",
+      "paragraphs": [
+        "Exact building unlock order, ratios, and drone behavior change during Early Access. Use this page for principles; verify numbers on the official wiki and patch notes.",
+        "Pair with the Beginner Guide and Slag & Processing when byproducts stall the line."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should I automate before expanding the dig?",
+      "a": "If you are hand-carrying more than you dig, yes. Expanding dig volume without logistics just creates a prettier backlog."
+    },
+    {
+      "q": "Are drones required early?",
+      "a": "Steam markets drones among deeper and later tech. Early progress usually leans on conveyors, launchers, and filters first."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "related": ["guide", "slag", "tips"]
+}

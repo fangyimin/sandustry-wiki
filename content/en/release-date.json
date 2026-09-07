@@ -1,0 +1,41 @@
+{
+  "slug": "release-date",
+  "title": "Sandustry Release Date — Early Access August 13, 2026",
+  "description": "Sandustry Early Access date, planned EA window, and where to follow updates from Lantto Games and Hooded Horse.",
+  "keyword": "sandustry release date",
+  "h1": "Sandustry Early Access Date",
+  "sections": [
+    {
+      "h2": "Confirmed EA date",
+      "paragraphs": [
+        "Sandustry entered Steam Early Access on August 13, 2026.",
+        "The store page has noted a planned Early Access period on the order of about one year, with more buildings, resources, production chains, quests, and technologies planned."
+      ]
+    },
+    {
+      "h2": "How to track changes",
+      "paragraphs": [
+        "Follow Steam news on the main app page, the official Discord, Reddit r/SandustryGame, YouTube @sandustry, and the official wiki hosted with Hooded Horse.",
+        "Fan sites (including this one) lag patches. Prefer primary sources for unlock tables and balance."
+      ]
+    },
+    {
+      "h2": "1.0 timing",
+      "paragraphs": [
+        "No separate full 1.0 date is treated as locked here beyond the EA window language on Steam.",
+        "Revisit the store page and developer posts for leaving-Early-Access announcements."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Sandustry fully released?",
+      "a": "As of this page's research date, it is sold as Steam Early Access, not a finished 1.0 product."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://discord.gg/HJNk5eMnmt"
+  ],
+  "related": ["demo", "guide", "gameplay"]
+}

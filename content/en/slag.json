@@ -1,0 +1,43 @@
+{
+  "slug": "slag",
+  "title": "Sandustry Slag & Processing — Byproduct Bottlenecks",
+  "description": "How slag and byproducts clog Sandustry factories, and high-level processing habits for Early Access.",
+  "keyword": "sandustry slag",
+  "h1": "Sandustry Slag & Processing",
+  "sections": [
+    {
+      "h2": "Byproducts are part of the loop",
+      "paragraphs": [
+        "Factory sandboxes punish players who only chase the valuable output. Slag and other residuals fill belts, bury buildings, and fake “I need more dig” problems.",
+        "Filter and sink byproducts on purpose."
+      ]
+    },
+    {
+      "h2": "Habits",
+      "paragraphs": [
+        "Give slag its own lane or dump before it backfills the gold path.",
+        "Do not merge unsorted dig output into a single long belt forever.",
+        "When throughput drops, inspect junctions for the wrong material first.",
+        "Revisit processing buildings after each major unlock — EA often adds better sinks."
+      ]
+    },
+    {
+      "h2": "Sources of truth",
+      "paragraphs": [
+        "Exact slag recipes and machine names belong on the official wiki and in-game tooltips.",
+        "This page stays principle-level so it does not invent patch-sensitive ratios."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should I store slag or destroy it?",
+      "a": "Depends on the current patch — some byproducts become feedstock later. Until you know, isolate it so it cannot stall the main line."
+    }
+  ],
+  "sources": [
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://store.steampowered.com/app/2764460/Sandustry/"
+  ],
+  "related": ["automation", "guide", "water"]
+}

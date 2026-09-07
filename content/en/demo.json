@@ -1,0 +1,44 @@
+{
+  "slug": "demo",
+  "title": "Sandustry Demo Guide — What to Test Before Buying",
+  "description": "Sandustry Steam demo checklist: performance, core loop, and how the free demo differs from Early Access.",
+  "keyword": "sandustry demo",
+  "h1": "Sandustry Demo Guide",
+  "sections": [
+    {
+      "h2": "Where to get the demo",
+      "paragraphs": [
+        "The free Sandustry Demo is on Steam as a separate app (3490390). Reviews on the demo page have been Very Positive.",
+        "Use it to validate FPS, controls, and whether the dig–refine–automate fantasy clicks for you."
+      ]
+    },
+    {
+      "h2": "30–60 minute checklist",
+      "paragraphs": [
+        "Dig and reshape terrain until physics feel readable.",
+        "Complete the early refine / gold-oriented intro loop.",
+        "Place at least one conveyor or logistics building and watch material flow.",
+        "Stress your PC with a denser dig and more buildings — factory games spike CPU/GPU late.",
+        "Skim Discord or Reddit after playing to see current EA complaints versus demo limits."
+      ]
+    },
+    {
+      "h2": "Demo vs Early Access",
+      "paragraphs": [
+        "Expect the full EA build (app 2764460) to go deeper on buildings, resources, production chains, quests, and technologies — Steam's EA notes describe roughly a year of planned content.",
+        "The demo is a taste, not a complete substitute. Wishlist or buy only after the loop feels good."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does the demo progress transfer?",
+      "a": "Treat demo and full game as separate unless Steam or the developer explicitly says otherwise in patch notes. Check the demo and main store pages before assuming cloud saves migrate."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://store.steampowered.com/app/2764460/Sandustry/"
+  ],
+  "related": ["guide", "release-date", "gameplay"]
+}
