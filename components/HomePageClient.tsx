@@ -93,6 +93,26 @@ export function HomePageClient({ en, zh }: { en: HomeData; zh: HomeData }) {
           </p>
         </section>
 
+        <section className="mx-auto max-w-6xl px-4 py-10">
+          <p className="text-sm uppercase tracking-[0.18em] text-[hsl(36_78%_55%)]">{t.homePath.eyebrow}</p>
+          <h2 className="mt-3 font-[family-name:var(--font-display)] text-3xl text-stone-50">{t.homePath.title}</h2>
+          <p className="mt-3 max-w-2xl text-stone-400">{t.homePath.intro}</p>
+          <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+            {(["/demo", "/guide", "/automation"] as const).map((href, i) => (
+              <Link
+                key={href}
+                href={href}
+                className="flex flex-1 items-center gap-4 rounded-2xl border border-white/10 bg-white/[0.03] p-4 hover:border-[hsl(36_78%_45%)]"
+              >
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[hsl(28_72%_48%)]/20 text-sm font-bold text-[hsl(36_78%_62%)]">
+                  {i + 1}
+                </span>
+                <span className="font-semibold text-stone-100">{t.homePath.steps[i]}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+
         <section className="border-y border-white/10 bg-black/20">
           <div className="mx-auto max-w-6xl px-4 py-14">
             <p className="text-sm uppercase tracking-[0.18em] text-[hsl(36_78%_55%)]">{h.start.eyebrow}</p>

@@ -1,7 +1,7 @@
 {
   "slug": "demo",
-  "title": "Sandustry Demo Guide — Free Steam Demo Checklist Before Buying",
-  "description": "Sandustry demo guide: where to download, 30–60 minute checklist, performance tests, demo vs Early Access, FAQ, and buy criteria.",
+  "title": "Sandustry Demo — Free Steam Download, Checklist & Buy Guide (2026)",
+  "description": "Sandustry demo guide: free Steam download (app 3490390), 30–60 min checklist, performance test, demo vs EA differences, wishlist tips, and honest buy criteria.",
   "keyword": "sandustry demo",
   "h1": "Sandustry Demo Guide",
   "note": "Demo and full Early Access are separate Steam apps. Confirm save transfer claims on the store pages or patch notes — do not assume cloud saves migrate.",
@@ -52,6 +52,31 @@
       ]
     },
     {
+      "h2": "After the demo: your first wiki clicks",
+      "paragraphs": [
+        "If the demo clicked: read the Beginner Guide next for EA first-hour habits, then Automation Tips when hand-carrying returns.",
+        "If fluids confused you: bookmark Water Basics before buying — wet sand shows up in Steam’s core marketing loop.",
+        "If you only liked digging: try one intentional clog-and-fix exercise in the demo. Factory fun often appears when a line stabilizes.",
+        "If performance struggled: note your settings and hardware — EA factories get denser, not lighter."
+      ]
+    },
+    {
+      "h2": "Wishlist vs buy vs wait",
+      "paragraphs": [
+        "Wishlist if the fantasy is interesting but you are unsure about performance or inventory walking.",
+        "Buy EA if the demo loop was fun, your PC held up, and you accept patch churn during Early Access.",
+        "Wait if you want a “complete” factory game today — Steam notes more buildings, chains, quests, and tech still arriving during EA.",
+        "Follow Steam news and the Release Date page on this wiki if a specific feature blocked your purchase."
+      ]
+    },
+    {
+      "h2": "Search questions this page answers",
+      "paragraphs": [
+        "Players search sandustry demo, sandustry free demo download, sandustry demo vs full game, sandustry demo save transfer, and is sandustry demo worth it.",
+        "This page tracks store facts and honest playtest goals — not hype. Always re-check Steam for the live review score and demo scope."
+      ]
+    },
+    {
       "h2": "Buy criteria (honest)",
       "paragraphs": [
         "Buy if you enjoyed digging + sorting + watching a line stabilize, and your PC held up.",
@@ -76,6 +101,22 @@
     {
       "q": "What should I read after the demo?",
       "a": "Beginner Guide and Automation Tips on this site, plus the official wiki for patch-sensitive details."
+    },
+    {
+      "q": "How long is the Sandustry demo?",
+      "a": "Treat it as a 30–60 minute structured test, not a full campaign. Scope can change — check the Steam demo page description."
+    },
+    {
+      "q": "Is the demo on Mac or Linux?",
+      "a": "See the Steam demo system requirements tab for supported platforms on your account region."
+    },
+    {
+      "q": "Controller support in the demo?",
+      "a": "Check Steam input / community posts for your patch. This guide assumes mouse and keyboard unless the store states otherwise."
+    },
+    {
+      "q": "Demo worth it if I already play Factorio?",
+      "a": "Yes for a taste test — Sandustry adds destructible sand physics. Buy only if you enjoy sorting and fluid chaos, not just throughput spreadsheets."
     }
   ],
   "sources": [

@@ -1,7 +1,7 @@
 {
   "slug": "guide",
-  "title": "Sandustry Beginner Guide — First Hours in Early Access",
-  "description": "A thicker Sandustry beginner guide for Early Access: dig–refine–automate loop, first-hour checklist, common failures, FAQ, and where official sources beat fan pages.",
+  "title": "Sandustry Beginner Guide — First Hours, Checklist & FAQ (2026 EA)",
+  "description": "Complete Sandustry beginner guide for Steam Early Access: first-hour checklist, dig-refine-automate loop, wet sand basics, common factory mistakes, recovery tips, and 10+ FAQs.",
   "keyword": "sandustry guide",
   "h1": "Sandustry Beginner Guide",
   "note": "Early Access systems change. Prefer Steam news and the official Hooded Horse wiki for patch-sensitive recipes, unlock tables, and exact building names.",
@@ -66,6 +66,29 @@
       ]
     },
     {
+      "h2": "First-hour checklist (copy this)",
+      "paragraphs": [
+        "Install or launch Sandustry (demo 3490390 or EA 2764460). Skim controls until digging feels predictable.",
+        "Dig a small pit beside your first refine setup — not a random tunnel network.",
+        "Complete the early shaker / gold-oriented tutorial loop before freestyling.",
+        "Place one conveyor or launcher the moment hand-carrying annoys you.",
+        "Add or plan one filter lane before mixing ore, sand, and byproducts on the same belt.",
+        "Mark an overflow dump zone so a clog does not entomb your machines.",
+        "Save before terraforming under active belts or pipes.",
+        "Stop expanding dig face until dig → buffer → refine → sink is stable for five minutes.",
+        "If stuck: pause digging, watch one junction for 30 seconds, fix sorting before adding machines.",
+        "Bookmark Automation Tips and Water Basics — most first-week stalls are logistics or fluids, not “bad luck.”"
+      ]
+    },
+    {
+      "h2": "Search questions this page answers",
+      "paragraphs": [
+        "Players often land here searching sandustry guide, sandustry beginner tips, sandustry early access how to start, sandustry wet sand, or sandustry first factory layout.",
+        "This page stays principle-based: it will not invent recipe ratios. For patch-sensitive numbers, use the official Hooded Horse wiki and Steam news.",
+        "If you have not bought yet, run the Demo Guide checklist first — it is the fastest way to see whether the loop is for you."
+      ]
+    },
+    {
       "h2": "Where to go next on this wiki",
       "paragraphs": [
         "Automation Tips — belt, launcher, and filter habits that survive rebuilds.",
@@ -101,6 +124,22 @@
     {
       "q": "Is this site the official wiki?",
       "a": "No. This is an independent fan guide. Official docs live on the Hooded Horse Sandustry wiki."
+    },
+    {
+      "q": "Does Sandustry have multiplayer?",
+      "a": "Check the current Steam store page and patch notes. This fan guide focuses on solo factory flow; multiplayer status can change during Early Access."
+    },
+    {
+      "q": "How long is Early Access planned?",
+      "a": "Steam store notes have described roughly a year of EA updates with more buildings, resources, chains, quests, and technologies — verify the live store page."
+    },
+    {
+      "q": "What should I automate first?",
+      "a": "Whatever you hand-carry most often — usually horizontal hauls, vertical lifts, or unsorted dig output. See Automation Tips after your first refine loop works."
+    },
+    {
+      "q": "Can I play on Steam Deck?",
+      "a": "Check Steam Deck compatibility on the store page and community reports. Pixel physics factories can be CPU-heavy — the demo is a good performance test."
     }
   ],
   "sources": [

@@ -65,6 +65,16 @@ export const ui = {
       nextCta: "Read {title}",
       keepExploring: "Keep exploring the wiki",
       tryDemo: "Try the free demo",
+      readTime: "{min} min read",
+      sections: "sections",
+      onThisPage: "On this page",
+      pathLabel: "Recommended path",
+    },
+    homePath: {
+      eyebrow: "Best order for new players",
+      title: "Read in this order",
+      intro: "Follow this path to get value from the wiki in one sitting — demo first if you have not bought yet.",
+      steps: ["Free demo checklist", "Beginner guide", "Automation tips"],
     },
   },
   zh: {
@@ -130,6 +140,16 @@ export const ui = {
       nextCta: "阅读 {title}",
       keepExploring: "继续浏览 wiki",
       tryDemo: "试玩免费 Demo",
+      readTime: "约 {min} 分钟",
+      sections: "个章节",
+      onThisPage: "本页目录",
+      pathLabel: "推荐阅读顺序",
+    },
+    homePath: {
+      eyebrow: "新玩家最佳顺序",
+      title: "按这个顺序读",
+      intro: "一次 sitting 就能从 wiki 拿到价值——若还没买，先从 Demo 开始。",
+      steps: ["免费 Demo 清单", "新手指南", "自动化技巧"],
     },
   },
 } as const;

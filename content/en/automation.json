@@ -1,7 +1,7 @@
 {
   "slug": "automation",
-  "title": "Sandustry Automation Tips — Conveyors, Filters, Launchers & Flow",
-  "description": "Practical Sandustry automation habits for Early Access: when to automate, belt layouts, filters vs wider belts, overflow, rebuild discipline, and FAQ.",
+  "title": "Sandustry Automation Guide — Conveyors, Filters, Launchers & Factory Flow",
+  "description": "Sandustry automation guide for EA: when to automate, belt layout patterns, filter placement, overflow fixes, launcher tips, rebuild discipline, and factory FAQ.",
   "keyword": "sandustry automation",
   "h1": "Sandustry Automation Tips",
   "note": "Building unlock order, ratios, and drone behavior change in Early Access. Use principles here; verify numbers on the official wiki and patch notes.",
@@ -68,6 +68,32 @@
       ]
     },
     {
+      "h2": "Three starter belt patterns (conceptual)",
+      "paragraphs": [
+        "Straight line: dig pit → short buffer → refine input. Best for learning junction behavior with minimal corners.",
+        "Parallel sort: main belt carries mixed output; filter spurs peel sand, ore, and byproducts before they merge again.",
+        "Lift loop: dig face on one elevation, refine on another — plan launchers early instead of stair-walking inventory.",
+        "None of these need to look pretty. They need visible stages so you can see where flow breaks."
+      ]
+    },
+    {
+      "h2": "Automation mistakes that look like “not enough resources”",
+      "paragraphs": [
+        "Adding a second refine machine while the input belt still carries unsorted sand.",
+        "Widening every belt instead of filtering one polluted merge.",
+        "Building vertical spaghetti before a horizontal buffer exists.",
+        "Automating output hauls while dig output is still a random mix from multiple tunnels.",
+        "Unlocking flashy tech because a video did, while your sink is full and the line is backed up."
+      ]
+    },
+    {
+      "h2": "Search questions this page answers",
+      "paragraphs": [
+        "Common searches include sandustry automation, sandustry conveyor tips, sandustry filter setup, sandustry launcher guide, and sandustry factory layout early access.",
+        "Use this page for habits and flow logic. Exact building unlock order and ratios belong on the official wiki for your patch."
+      ]
+    },
+    {
       "h2": "Related reading",
       "paragraphs": [
         "Beginner Guide — first-hour loop and recovery playbook.",
@@ -98,6 +124,22 @@
     {
       "q": "Where do exact ratios live?",
       "a": "Official Hooded Horse wiki, Steam news, and in-game tooltips — not on this principle page."
+    },
+    {
+      "q": "Conveyor or launcher first?",
+      "a": "Whichever removes the walk you hate most. Flat hauls favor belts; elevation changes favor launchers."
+    },
+    {
+      "q": "How many filters do I need early?",
+      "a": "At least enough to keep sand, valuable ore, and byproducts from sharing one merge. One good filter lane beats three blind belts."
+    },
+    {
+      "q": "Why did automation slow my factory down?",
+      "a": "You may have automated a clogged path. Fix junction sorting and sink space before adding more movers."
+    },
+    {
+      "q": "Should I rebuild or patch with more belts?",
+      "a": "Rebuild one segment if the junction is unreadable. Patch only when the stage model (dig → buffer → refine → sink) is still visible."
     }
   ],
   "sources": [
