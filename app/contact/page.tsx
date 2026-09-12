@@ -1,10 +1,11 @@
-import type { Metadata } from "next";
 import { SiteInfoPage } from "@/components/SiteInfoPage";
+import { buildMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = buildMetadata({
   title: "Contact Sandustry Wiki",
   description: "Contact the Sandustry Wiki maintainer for corrections, source questions, or content issues.",
-};
+  path: "/contact/",
+});
 
 const en = {
   h1: "Contact",

@@ -4,9 +4,8 @@ import { Fraunces, Noto_Sans_SC, Outfit } from "next/font/google";
 import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import { Providers } from "@/components/Providers";
 import siteConfig from "@/config/site.json";
+import { buildMetadata, siteUrl } from "@/lib/seo";
 import "./globals.css";
-
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || siteConfig.siteUrl;
 
 const display = Fraunces({
   variable: "--font-display",
@@ -28,11 +27,14 @@ const zhBody = Noto_Sans_SC({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  ...buildMetadata({
+    title: siteConfig.seo.defaultTitle,
+    description: siteConfig.seo.description,
+  }),
   title: {
     default: siteConfig.seo.defaultTitle,
     template: siteConfig.seo.titleTemplate,
   },
-  description: siteConfig.seo.description,
   keywords: siteConfig.seo.keywords,
 };
 

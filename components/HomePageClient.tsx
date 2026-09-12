@@ -130,12 +130,12 @@ export function HomePageClient({ en, zh }: { en: HomeData; zh: HomeData }) {
               </div>
             ))}
           </div>
-          <Link href="/modules" className="mt-8 inline-flex text-sm font-semibold text-[hsl(36_78%_62%)] hover:underline">
+          <Link href="/#guides" className="mt-8 inline-flex text-sm font-semibold text-[hsl(36_78%_62%)] hover:underline">
             {h.aboutGame.cta} →
           </Link>
         </section>
 
-        <section className="border-y border-white/10 bg-black/25">
+        <section id="guides" className="border-y border-white/10 bg-black/25 scroll-mt-20">
           <div className="mx-auto max-w-6xl px-4 py-14">
             <h2 className="font-[family-name:var(--font-display)] text-3xl text-stone-50">{t.home.guidesHeading}</h2>
             <p className="mt-3 max-w-2xl text-stone-400">{t.home.guidesIntro}</p>

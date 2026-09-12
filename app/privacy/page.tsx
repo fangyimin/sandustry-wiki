@@ -1,11 +1,12 @@
-import type { Metadata } from "next";
 import { SiteInfoPage } from "@/components/SiteInfoPage";
+import { buildMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = buildMetadata({
   title: "Privacy Policy — Sandustry Wiki",
   description:
     "Privacy policy for playsandustry.online: analytics, cookies, and how visitor data is handled on this fan wiki.",
-};
+  path: "/privacy/",
+});
 
 const en = {
   h1: "Privacy Policy",

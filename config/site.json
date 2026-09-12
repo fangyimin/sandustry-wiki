@@ -27,9 +27,9 @@
     { "href": "/release-date", "label": "EA Date" }
   ],
   "seo": {
-    "defaultTitle": "Sandustry Wiki — Guide, Automation & Demo",
+    "defaultTitle": "Sandustry Wiki — Beginner Guide, Automation Tips & Free Demo",
     "titleTemplate": "%s | Sandustry Wiki",
-    "description": "Fan-made Sandustry wiki for Early Access: beginner guide, automation tips, demo notes, water and slag basics from Steam and official channels.",
+    "description": "Sandustry wiki for Early Access players: step-by-step beginner guide, automation tips, demo checklist, water/slag basics, and EA release notes from Steam.",
     "keywords": ["Sandustry", "Sandustry wiki", "Sandustry guide", "automation", "demo", "Hooded Horse"]
   },
   "reservedRoutes": ["modules", "about", "contact", "privacy"]

@@ -1,12 +1,12 @@
 {
   "home": {
     "meta": {
-      "title": "Sandustry Wiki — Guide, Automation & Demo",
-      "description": "Fan-made Sandustry wiki for Early Access: beginner guide, automation tips, demo notes, and factory basics from Steam and official channels."
+      "title": "Sandustry Wiki — Beginner Guide, Automation Tips & Free Demo",
+      "description": "Sandustry wiki for Early Access players: step-by-step beginner guide, automation tips, demo checklist, water/slag basics, and EA release notes from Steam."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "Sandustry",
+      "title": "Sandustry Wiki",
       "description": "Dig, sift, and automate a living sand planet. Turn wet sand into gold, then grow conveyor empires until the factory runs itself.",
       "stats": [
         "Early Access Aug 13, 2026",

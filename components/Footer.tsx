@@ -64,6 +64,31 @@ export function Footer() {
                 {t.footer.demoGuide}
               </Link>
             </li>
+            <li>
+              <Link className="hover:text-[hsl(36_78%_70%)]" href="/tips">
+                {t.footer.tips}
+              </Link>
+            </li>
+            <li>
+              <Link className="hover:text-[hsl(36_78%_70%)]" href="/water">
+                {t.footer.water}
+              </Link>
+            </li>
+            <li>
+              <Link className="hover:text-[hsl(36_78%_70%)]" href="/slag">
+                {t.footer.slag}
+              </Link>
+            </li>
+            <li>
+              <Link className="hover:text-[hsl(36_78%_70%)]" href="/gameplay">
+                {t.footer.gameplay}
+              </Link>
+            </li>
+            <li>
+              <Link className="hover:text-[hsl(36_78%_70%)]" href="/release-date">
+                {t.footer.releaseDate}
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
