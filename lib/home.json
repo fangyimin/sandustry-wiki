@@ -1,8 +1,8 @@
 {
   "home": {
     "meta": {
-      "title": "Sandustry Wiki — Beginner Guide, Automation Tips & Free Demo",
-      "description": "Sandustry wiki for Early Access players: step-by-step beginner guide, automation tips, demo checklist, water/slag basics, and EA release notes from Steam."
+      "title": "Sandustry Wiki — Guide, Buildings, Demo & EA Date (2026)",
+      "description": "Sandustry wiki for Steam Early Access: beginner guide, buildings overview, automation tips, free demo checklist, release date, and factory basics from official sources."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
@@ -108,6 +108,11 @@
       "slug": "guide",
       "title": "Beginner Guide",
       "description": "First hours: dig, refine, place logistics."
+    },
+    {
+      "slug": "buildings",
+      "title": "Buildings Overview",
+      "description": "Refining, logistics, and production roles."
     },
     {
       "slug": "automation",

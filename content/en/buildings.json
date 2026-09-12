@@ -1,0 +1,72 @@
+{
+  "slug": "buildings",
+  "title": "Sandustry Buildings Guide — Refining, Logistics & Production Roles (2026 EA)",
+  "description": "Sandustry buildings overview for Early Access: shakers and refiners, conveyors, filters, launchers, fluid handling, and how each building role fits the dig-refine-automate loop.",
+  "keyword": "sandustry buildings",
+  "h1": "Sandustry Buildings Overview",
+  "note": "Exact building names, recipes, and unlock order change in Early Access. Use roles here; verify numbers on the official Hooded Horse wiki and Steam patch notes.",
+  "sections": [
+    {
+      "h2": "How to read this page",
+      "paragraphs": [
+        "Steam markets Sandustry as a pixel-physics factory sandbox: dig sand, refine value, then automate with belts, filters, fluids, and deeper tech.",
+        "This page groups buildings by job — not by a fake complete item checklist. When in doubt, open the official wiki for patch-sensitive tables.",
+        "Pair this hub with Automation (layout patterns), Water Basics (floods), and Slag & Processing (byproducts)."
+      ]
+    },
+    {
+      "h2": "Extraction & terrain",
+      "paragraphs": [
+        "Your dig tools and terrain interaction are the first “building” layer: every factory starts as a hole in sand.",
+        "Keep dig faces small until logistics exist — collapsing tunnels and flooded rooms are the #1 early save killer.",
+        "Designate a buffer pit near the refinery so mixed dig output has somewhere to land before sorting."
+      ]
+    },
+    {
+      "h2": "Refining & value",
+      "paragraphs": [
+        "Early value usually flows through shakers / refine paths shown in the Steam trailer and demo — wet sand toward gold is the marketed hook.",
+        "Refiners starve when input is unsorted or when output has no sink. Treat refine buildings as part of a line, not standalone ornaments.",
+        "When a refiner clogs, fix the junction behind it before adding another copy."
+      ]
+    },
+    {
+      "h2": "Logistics buildings",
+      "paragraphs": [
+        "Conveyors and launchers move bulk; filters split streams; storage buffers absorb dig spikes.",
+        "Automate the step that currently wastes the most walking — usually horizontal haul or mixed-ore sorting.",
+        "See the Automation guide for belt layout patterns, overflow fixes, and rebuild discipline."
+      ]
+    },
+    {
+      "h2": "Fluids & hazards",
+      "paragraphs": [
+        "Water and other fluids can erase hours of work if pipes and pumps are placed before you understand flood paths.",
+        "Read Water Basics before routing fluids under active dig sites.",
+        "Slag and byproduct chains get their own bottleneck page — do not ignore side outputs."
+      ]
+    },
+    {
+      "h2": "Mid / late tech (EA roadmap)",
+      "paragraphs": [
+        "Steam’s Early Access notes promise more buildings, resources, chains, quests, and technologies over roughly a year.",
+        "Drones and deeper production chains appear in marketing — treat them as expansion goals after a stable early refine + belt core.",
+        "Revisit this page after major patches; rename or merge sections instead of cloning outdated lists."
+      ]
+    },
+    {
+      "h2": "Buildings FAQ",
+      "paragraphs": [
+        "Where is the full building list? Official Hooded Horse wiki — we link it from the footer; this fan page stays role-based.",
+        "Demo vs EA buildings? Demo validates the core loop; EA adds breadth. Check both Steam app pages before assuming feature parity.",
+        "What should I unlock first? One refine path + one belt path that removes hand-carrying — details in Beginner Guide."
+      ]
+    }
+  ],
+  "related": ["guide", "automation", "demo", "water", "slag"],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki"
+  ],
+  "updatedAt": "2026-09-12"
+}

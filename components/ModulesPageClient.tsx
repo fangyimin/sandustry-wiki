@@ -36,7 +36,26 @@ export function ModulesPageClient({ enNav, zhNav }: { enNav: NavItem[]; zhNav: N
             </article>
           ))}
         </div>
-        <div className="mt-10 flex flex-wrap gap-3 text-sm">
+        <p className="mt-8 max-w-3xl text-sm text-stone-400">
+          {locale === "zh" ? (
+            <>
+              需要按职能展开的完整说明？阅读{" "}
+              <Link href="/buildings/" className="text-[hsl(36_78%_55%)] hover:underline">
+                Sandustry 建筑总览
+              </Link>
+              。
+            </>
+          ) : (
+            <>
+              Want role-based depth? Read the full{" "}
+              <Link href="/buildings/" className="text-[hsl(36_78%_55%)] hover:underline">
+                Sandustry buildings guide
+              </Link>
+              .
+            </>
+          )}
+        </p>
+        <div className="mt-6 flex flex-wrap gap-3 text-sm">
           <Link href="/automation" className="rounded-full bg-[hsl(28_72%_48%)] px-4 py-2 font-semibold text-stone-950">
             {t.modules.automationCta}
           </Link>

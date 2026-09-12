@@ -21,16 +21,16 @@
   "nav": [
     { "href": "/", "label": "Home" },
     { "href": "/guide", "label": "Guide" },
-    { "href": "/modules", "label": "Buildings" },
+    { "href": "/buildings", "label": "Buildings" },
     { "href": "/automation", "label": "Automation" },
     { "href": "/demo", "label": "Demo" },
     { "href": "/release-date", "label": "EA Date" }
   ],
   "seo": {
-    "defaultTitle": "Sandustry Wiki — Beginner Guide, Automation Tips & Free Demo",
+    "defaultTitle": "Sandustry Wiki — Guide, Buildings, Demo & EA Date (2026)",
     "titleTemplate": "%s | Sandustry Wiki",
-    "description": "Sandustry wiki for Early Access players: step-by-step beginner guide, automation tips, demo checklist, water/slag basics, and EA release notes from Steam.",
-    "keywords": ["Sandustry", "Sandustry wiki", "Sandustry guide", "automation", "demo", "Hooded Horse"]
+    "description": "Sandustry wiki for Steam Early Access: beginner guide, buildings overview, automation tips, free demo checklist, release date, and factory basics from official sources.",
+    "keywords": ["Sandustry", "Sandustry wiki", "Sandustry guide", "Sandustry buildings", "Sandustry demo", "automation", "Hooded Horse"]
   },
   "reservedRoutes": ["modules", "about", "contact", "privacy"]
 }
