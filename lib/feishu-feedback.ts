@@ -13,7 +13,7 @@ export type FeedbackPayload = {
 function buildMarkdown(payload: FeedbackPayload): string {
   const pageUrl = `${payload.siteUrl.replace(/\/$/, "")}${payload.pagePath.startsWith("/") ? payload.pagePath : `/${payload.pagePath}`}`;
   const lines = [
-    `**站点留言** · ${payload.siteName}`,
+    `**站点反馈** · ${payload.siteName}`,
     "",
     `- **页面**: ${payload.pageTitle ? `${payload.pageTitle} · ` : ""}${pageUrl}`,
   ];
