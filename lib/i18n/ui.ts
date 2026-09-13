@@ -73,8 +73,8 @@ export const ui = {
     homePath: {
       eyebrow: "Best order for new players",
       title: "Read in this order",
-      intro: "Follow this path to get value from the wiki in one sitting — demo first if you have not bought yet.",
-      steps: ["Free demo checklist", "Beginner guide", "Automation tips"],
+      intro: "Follow this 3-step path on your first visit — most players should open the beginner guide before anything else.",
+      steps: ["Beginner guide", "Free demo checklist", "Automation tips"],
     },
     feedback: {
       title: "Was this page helpful?",
@@ -160,8 +160,8 @@ export const ui = {
     homePath: {
       eyebrow: "新玩家最佳顺序",
       title: "按这个顺序读",
-      intro: "一次 sitting 就能从 wiki 拿到价值——若还没买，先从 Demo 开始。",
-      steps: ["免费 Demo 清单", "新手指南", "自动化技巧"],
+      intro: "第一次来建议按这三步读——多数玩家应先看新手指南，再决定是否试 Demo。",
+      steps: ["新手指南", "免费 Demo 清单", "自动化技巧"],
     },
     feedback: {
       title: "这页对你有帮助吗？",

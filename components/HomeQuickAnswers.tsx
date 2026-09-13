@@ -6,12 +6,24 @@ type QuickAnswers = {
   items: { q: string; a: string; href: string }[];
 };
 
-export function HomeQuickAnswers({ block }: { block: QuickAnswers }) {
+export function HomeQuickAnswers({
+  block,
+  embedded = false,
+}: {
+  block: QuickAnswers;
+  embedded?: boolean;
+}) {
   if (!block.items?.length) return null;
   return (
-    <section className="border-y border-white/10 bg-black/25">
-      <div className="mx-auto max-w-6xl px-4 py-12">
-        <h2 className="font-[family-name:var(--font-display)] text-2xl text-stone-50 md:text-3xl">
+    <section className={embedded ? "mt-10" : "border-y border-white/10 bg-black/25"}>
+      <div className={embedded ? "" : "mx-auto max-w-6xl px-4 py-12"}>
+        <h2
+          className={
+            embedded
+              ? "font-[family-name:var(--font-display)] text-xl text-stone-50 md:text-2xl"
+              : "font-[family-name:var(--font-display)] text-2xl text-stone-50 md:text-3xl"
+          }
+        >
           {block.title}
         </h2>
         {block.intro ? <p className="mt-3 max-w-3xl text-sm leading-7 text-stone-400">{block.intro}</p> : null}

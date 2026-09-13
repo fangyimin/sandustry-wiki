@@ -7,7 +7,7 @@
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
       "title": "Sandustry Wiki",
-      "description": "Dig, sift, and automate a living sand planet. Turn wet sand into gold, then grow conveyor empires until the factory runs itself.",
+      "description": "Unofficial Sandustry wiki for Early Access. New player? Read the beginner guide first — demo checklist and automation tips are linked inside.",
       "stats": [
         "Early Access Aug 13, 2026",
         "Overwhelmingly Positive (Steam)",
@@ -89,7 +89,30 @@
       "description": "From first shaker runs to conveyor loops and fluid puzzles, this fan wiki tracks what players search for during Early Access.",
       "primary": "Read the Beginner Guide",
       "secondary": "Open on Steam"
-    }
+    },
+    "quickAnswers": {
+      "title": "Start here",
+      "updated": "2026-09-13",
+      "intro": "Not sure which page to open? Tap the card that matches your question — each link goes to a full guide.",
+      "items": [
+        {
+          "q": "Where do I start?",
+          "a": "Beginner guide: dig sand, refine value, place your first logistics.",
+          "href": "/guide"
+        },
+        {
+          "q": "How do I automate?",
+          "a": "Conveyors, filters, and layout tips on the automation page.",
+          "href": "/automation"
+        },
+        {
+          "q": "Try before buying?",
+          "a": "Use the free Steam demo checklist before Early Access.",
+          "href": "/demo"
+        }
+      ]
+    },
+    "updatedAt": "2026-09-13"
   },
   "footer": {
     "aboutTitle": "Sandustry Wiki",
