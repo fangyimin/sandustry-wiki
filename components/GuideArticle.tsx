@@ -4,6 +4,7 @@ import type { GuidePage } from "@/lib/site";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { GuideStickyNext } from "@/components/GuideStickyNext";
+import { PageFeedback } from "@/components/PageFeedback";
 import Link from "next/link";
 import { useLanguage } from "@/lib/i18n/context";
 import { getUi } from "@/lib/i18n/ui";
@@ -265,6 +266,7 @@ export function GuideArticle({
                 </ul>
               </aside>
             ) : null}
+            <PageFeedback pageTitle={page.h1} siteName={site.name} />
           </article>
           <aside className="hidden lg:block">
             <div className="sticky top-24 rounded-2xl border border-white/10 bg-white/[0.02] p-4">

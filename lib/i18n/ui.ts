@@ -76,6 +76,18 @@ export const ui = {
       intro: "Follow this path to get value from the wiki in one sitting — demo first if you have not bought yet.",
       steps: ["Free demo checklist", "Beginner guide", "Automation tips"],
     },
+    feedback: {
+      title: "Was this page helpful?",
+      subtitle: "One-click rating plus an optional note goes to our editors.",
+      yes: "👍 Yes",
+      no: "👎 Not really",
+      noteLabel: "What's missing or wrong? (optional)",
+      notePlaceholder: "e.g. demo steps, outdated date, broken link…",
+      send: "Send feedback",
+      sending: "Sending…",
+      thanks: "Thanks — your feedback helps us improve {site}.",
+      error: "Could not send right now. Try again or use the Contact page.",
+    },
   },
   zh: {
     nav: {
@@ -150,6 +162,18 @@ export const ui = {
       title: "按这个顺序读",
       intro: "一次 sitting 就能从 wiki 拿到价值——若还没买，先从 Demo 开始。",
       steps: ["免费 Demo 清单", "新手指南", "自动化技巧"],
+    },
+    feedback: {
+      title: "这页对你有帮助吗？",
+      subtitle: "一键评价，可选留言，会发给编辑用于改站。",
+      yes: "👍 有帮助",
+      no: "👎 不太行",
+      noteLabel: "缺什么或哪里错了？（可选）",
+      notePlaceholder: "例如：Demo 步骤、过时日期、坏链接…",
+      send: "发送反馈",
+      sending: "发送中…",
+      thanks: "谢谢 — 你的反馈会帮助我们改进 {site}。",
+      error: "暂时发送失败，请稍后再试或使用「联系」页。",
     },
   },
 } as const;

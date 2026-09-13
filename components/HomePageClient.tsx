@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { HomeQuickAnswers } from "@/components/HomeQuickAnswers";
+import { PageFeedback } from "@/components/PageFeedback";
 import { site } from "@/lib/site";
 import { useLanguage } from "@/lib/i18n/context";
 import { getUi } from "@/lib/i18n/ui";
@@ -92,6 +94,10 @@ export function HomePageClient({ en, zh }: { en: HomeData; zh: HomeData }) {
             </a>
           </p>
         </section>
+
+        {"quickAnswers" in h && h.quickAnswers ? (
+          <HomeQuickAnswers block={h.quickAnswers as Parameters<typeof HomeQuickAnswers>[0]["block"]} />
+        ) : null}
 
         <section className="mx-auto max-w-6xl px-4 py-10">
           <p className="text-sm uppercase tracking-[0.18em] text-[hsl(36_78%_55%)]">{t.homePath.eyebrow}</p>
@@ -195,6 +201,10 @@ export function HomePageClient({ en, zh }: { en: HomeData; zh: HomeData }) {
               </a>
             </div>
           </div>
+        </section>
+
+        <section className="mx-auto max-w-3xl px-4 pb-16">
+          <PageFeedback pageTitle={locale === "zh" ? "首页" : "Home"} siteName={site.name} />
         </section>
       </main>
       <Footer />

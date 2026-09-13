@@ -27,6 +27,12 @@ const en = {
       ],
     },
     {
+      h2: "Page feedback",
+      paragraphs: [
+        "Some pages include an optional “Was this helpful?” widget. If you submit it, we store the page URL, optional note, and browser referrer to improve guides. We do not ask for your email in that widget.",
+      ],
+    },
+    {
       h2: "Contact",
       paragraphs: ["Privacy questions: use the Contact page or the GitHub repository linked there."],
     },
@@ -49,6 +55,12 @@ const zh = {
       paragraphs: [
         "站点托管于 Vercel（启用时 DNS 可能经 Cloudflare 或注册商）。这些服务商可能处理标准请求日志（IP、UA、时间戳）用于安全与交付。",
         "本站无账号系统，也不会故意收集姓名、邮箱或支付信息。",
+      ],
+    },
+    {
+      h2: "页面反馈",
+      paragraphs: [
+        "部分页面有可选的「这页有帮助吗？」组件。提交后会记录页面 URL、可选留言与浏览器来源，用于改进攻略；该组件不要求填写邮箱。",
       ],
     },
     {
