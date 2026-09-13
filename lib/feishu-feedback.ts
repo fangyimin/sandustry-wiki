@@ -5,20 +5,21 @@ export type FeedbackPayload = {
   siteUrl: string;
   pagePath: string;
   pageTitle?: string;
-  helpful: boolean;
+  helpful?: boolean;
   message?: string;
   referrer?: string;
 };
 
 function buildMarkdown(payload: FeedbackPayload): string {
-  const rating = payload.helpful ? "👍 有帮助" : "👎 需改进";
   const pageUrl = `${payload.siteUrl.replace(/\/$/, "")}${payload.pagePath.startsWith("/") ? payload.pagePath : `/${payload.pagePath}`}`;
   const lines = [
-    `**站点反馈** · ${payload.siteName}`,
+    `**站点留言** · ${payload.siteName}`,
     "",
-    `- **评价**: ${rating}`,
     `- **页面**: ${payload.pageTitle ? `${payload.pageTitle} · ` : ""}${pageUrl}`,
   ];
+  if (typeof payload.helpful === "boolean") {
+    lines.push(`- **评价**: ${payload.helpful ? "👍 有帮助" : "👎 需改进"}`);
+  }
   if (payload.referrer) lines.push(`- **来源**: ${payload.referrer}`);
   if (payload.message?.trim()) lines.push(`- **留言**: ${payload.message.trim()}`);
   return lines.join("\n");

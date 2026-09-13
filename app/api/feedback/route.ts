@@ -28,14 +28,14 @@ export async function POST(req: Request) {
     return Response.json({ ok: true });
   }
 
-  if (typeof body.helpful !== "boolean") {
-    return Response.json({ error: "helpful is required" }, { status: 400 });
-  }
-
   const pagePath = trim(body.pagePath, 200) || "/";
   const message = trim(body.message, 500);
   const pageTitle = trim(body.pageTitle, 120);
   const referrer = trim(body.referrer, 500);
+
+  if (!message) {
+    return Response.json({ error: "message is required" }, { status: 400 });
+  }
 
   try {
     await sendFeedbackToFeishu({
@@ -43,8 +43,8 @@ export async function POST(req: Request) {
       siteUrl: siteConfig.siteUrl,
       pagePath,
       pageTitle: pageTitle || undefined,
-      helpful: body.helpful,
-      message: message || undefined,
+      helpful: typeof body.helpful === "boolean" ? body.helpful : undefined,
+      message,
       referrer: referrer || undefined,
     });
     return Response.json({ ok: true });
