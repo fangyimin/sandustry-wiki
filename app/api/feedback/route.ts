@@ -33,8 +33,9 @@ export async function POST(req: Request) {
   const pageTitle = trim(body.pageTitle, 120);
   const referrer = trim(body.referrer, 500);
 
-  if (!message) {
-    return Response.json({ error: "message is required" }, { status: 400 });
+  const helpful = typeof body.helpful === "boolean" ? body.helpful : undefined;
+  if (helpful === undefined && !message) {
+    return Response.json({ error: "helpful or message is required" }, { status: 400 });
   }
 
   try {
@@ -43,8 +44,8 @@ export async function POST(req: Request) {
       siteUrl: siteConfig.siteUrl,
       pagePath,
       pageTitle: pageTitle || undefined,
-      helpful: typeof body.helpful === "boolean" ? body.helpful : undefined,
-      message,
+      helpful,
+      message: message || undefined,
       referrer: referrer || undefined,
     });
     return Response.json({ ok: true });
