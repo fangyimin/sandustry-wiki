@@ -7,7 +7,7 @@
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
       "title": "Sandustry Wiki",
-      "description": "Unofficial Sandustry wiki for Early Access. New player? Read the beginner guide first — demo checklist and automation tips are linked inside.",
+      "description": "New here? Start with the Beginner Guide — Unofficial Sandustry wiki for Early Access. New player? Read the beginner guide first — demo checklist and automation tips are linked inside.",
       "stats": [
         "Early Access Aug 13, 2026",
         "Overwhelmingly Positive (Steam)",
@@ -91,9 +91,9 @@
       "secondary": "Open on Steam"
     },
     "quickAnswers": {
-      "title": "Start here",
-      "updated": "2026-09-13",
-      "intro": "Not sure which page to open? Tap the card that matches your question — each link goes to a full guide.",
+      "title": "Quick answers (2026-09-14)",
+      "updated": "2026-09-14",
+      "intro": "Homepage bounce 94% (122 sessions in 7d). Most visitors leave without a clear next step — pick a card below to jump straight into the guide you need.",
       "items": [
         {
           "q": "Where do I start?",
@@ -112,7 +112,7 @@
         }
       ]
     },
-    "updatedAt": "2026-09-13"
+    "updatedAt": "2026-09-14"
   },
   "footer": {
     "aboutTitle": "Sandustry Wiki",
