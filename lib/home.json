@@ -91,9 +91,9 @@
       "secondary": "Open on Steam"
     },
     "quickAnswers": {
-      "title": "Quick answers (2026-09-14)",
-      "updated": "2026-09-14",
-      "intro": "Homepage bounce 94% (122 sessions in 7d). Most visitors leave without a clear next step — pick a card below to jump straight into the guide you need.",
+      "title": "Quick answers (2026-09-15)",
+      "updated": "2026-09-15",
+      "intro": "Homepage bounce 94% (115 sessions in 7d). Most visitors leave without a clear next step — pick a card below to jump straight into the guide you need.",
       "items": [
         {
           "q": "Where do I start?",
@@ -112,7 +112,7 @@
         }
       ]
     },
-    "updatedAt": "2026-09-14"
+    "updatedAt": "2026-09-15"
   },
   "footer": {
     "aboutTitle": "Sandustry Wiki",
