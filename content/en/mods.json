@@ -1,0 +1,112 @@
+{
+  "slug": "mods",
+  "title": "Sandustry Mods — Workshop Status, Safety & Where to Watch (EA)",
+  "description": "Sandustry mods overview for Steam Early Access: what is confirmed from official channels, Workshop uncertainty, safe community watching, and FAQ — no invented mod lists.",
+  "keyword": "sandustry mods",
+  "h1": "Sandustry Mods",
+  "note": "Early Access tooling and store features can change. This page does not invent Workshop listings, mod APIs, install steps, or “best mods” tables. Re-check Steam news and official Discord before trusting any third-party installer.",
+  "sections": [
+    {
+      "h2": "What “Sandustry mods” usually means",
+      "paragraphs": [
+        "Searchers looking for sandustry mods usually want Steam Workshop support, a community mod list, or install instructions for unofficial packs.",
+        "Sandustry is a dig-and-automate factory sandbox from Lantto Games, published by Hooded Horse, sold as Steam Early Access (app 2764460) with a separate free demo (app 3490390).",
+        "This fan page answers the search intent honestly: what official sources currently support saying — and what they do not."
+      ]
+    },
+    {
+      "h2": "What official sources confirm today",
+      "paragraphs": [
+        "Preferred sources for this wiki are the Steam store pages, the Hooded Horse Sandustry official wiki, and the official Discord / YouTube / Reddit communities linked from Steam.",
+        "Public store marketing for Sandustry centers on destructible sand physics, refining, conveyors, filters, fluids, and a growing Early Access content roadmap — not a documented first-party modding SDK.",
+        "As of this page’s research date, named official coverage of a shipped Steam Workshop catalog, approved mod API, or curated “official mods” list is thin. Do not treat rumor threads as patch notes."
+      ]
+    },
+    {
+      "h2": "Early Access uncertainty (read this before installing anything)",
+      "paragraphs": [
+        "Steam’s Early Access notes for Sandustry describe ongoing updates — more buildings, resources, production chains, quests, and technologies over a planned EA window on the order of about one year.",
+        "Any unofficial file that touches game binaries, saves, or asset packs can break on the next patch. That risk is higher during EA, not lower.",
+        "If a download site claims permanent compatibility, free DLC mirrors, or multiplayer “mod modes” without naming a primary Steam news post or official wiki page, treat it as unverified."
+      ]
+    },
+    {
+      "h2": "Practical first-hour advice instead of chasing packs",
+      "paragraphs": [
+        "If you are new: finish a stable dig → refine → short belt loop in the free demo before hunting mods. Most “I need mods” friction is early logistics pain, not missing Workshop content.",
+        "Learn filters, overflow dumps, and wet-sand habits from in-game prompts and the official wiki — those skills transfer even if community mods appear later.",
+        "Snapshot saves before any experiment that alters files. Pixel factories are painful to rebuild after a bad install.",
+        "Want more systems from the developers? Follow Steam news and the Release Date page on this site for roadmap language — that is the official expansion path during EA."
+      ]
+    },
+    {
+      "h2": "Where community mod talk actually lives",
+      "paragraphs": [
+        "Official Discord: https://discord.gg/HJNk5eMnmt — best place to see whether developers or moderators acknowledge modding experiments.",
+        "Reddit: r/SandustryGame — screenshots and discussion; still not an install authority.",
+        "YouTube: @sandustry — trailers and developer-facing video; skim descriptions for any Workshop callouts before trusting a random “top mods” video.",
+        "Hooded Horse Sandustry official wiki — use this for game systems; if a modding page appears there later, prefer it over fan mirrors."
+      ]
+    },
+    {
+      "h2": "Safety checklist for unofficial downloads",
+      "paragraphs": [
+        "Prefer links that originate from Steam, official Discord announcements, or clearly named coverage — not random SEO mirrors.",
+        "Avoid “crack,” keygen, or “unlocked multiplayer” packs bundled with factory games; those are malware patterns, not Sandustry features.",
+        "Do not paste unknown scripts into your game folder while a save is open.",
+        "If something goes wrong, verify game files on Steam and restore a pre-mod save — then re-check Discord for known-good guidance."
+      ]
+    },
+    {
+      "h2": "Not the same as buildings / “modules”",
+      "paragraphs": [
+        "Players sometimes confuse mods (third-party or Workshop content) with in-game buildings and production modules.",
+        "For machine roles and factory pieces, use this site’s Buildings overview — that page stays role-based and points to the official wiki for patch-sensitive names.",
+        "For belt and filter habits without file mods, use Automation Tips."
+      ]
+    },
+    {
+      "h2": "How this page will stay honest",
+      "paragraphs": [
+        "We will not invent a Workshop URL, a ranked mod list, install paths, or unlock codes.",
+        "When Steam news, the official wiki, or developer posts publish concrete modding support, this page should be updated to cite those sources directly.",
+        "Until then, the correct SEO answer for sandustry mods is: sources are thin — play the vanilla EA loop, watch official channels, and skip unverified installers."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does Sandustry have Steam Workshop mods?",
+      "a": "Official preferred sources do not currently give this fan page a solid, citable Workshop catalog to document. Check the live Steam app page and recent Steam news; do not assume Workshop exists because other factory games have it."
+    },
+    {
+      "q": "Is there an official Sandustry modding API?",
+      "a": "Named official documentation for a public mod API is thin as of this page. Watch the Hooded Horse wiki and developer posts on Discord or Steam — do not trust third-party “API guides” that invent endpoints or folder layouts."
+    },
+    {
+      "q": "Where should I look for Sandustry mod news?",
+      "a": "Steam news for app 2764460, the official Discord (https://discord.gg/HJNk5eMnmt), r/SandustryGame, @sandustry on YouTube, and the Hooded Horse Sandustry wiki."
+    },
+    {
+      "q": "Are mods safe to install during Early Access?",
+      "a": "Unofficial mods can break on patches and can risk saves or accounts if the download is shady. Prefer vanilla play until an official channel documents a supported path."
+    },
+    {
+      "q": "I searched mods but I meant buildings — where do I go?",
+      "a": "Use the Buildings page on this wiki for machine roles, then the official Hooded Horse wiki for exact names and unlocks."
+    },
+    {
+      "q": "Should I buy Early Access just for mods?",
+      "a": "No. Buy for the dig–refine–automate loop after trying the free demo. Mod support, if it arrives, should be confirmed on Steam — not assumed from search results."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://discord.gg/HJNk5eMnmt",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ],
+  "related": ["demo", "guide", "buildings", "automation", "release-date"]
+}

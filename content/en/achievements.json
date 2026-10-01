@@ -1,0 +1,134 @@
+{
+  "slug": "achievements",
+  "title": "Sandustry Achievements — Steam Status, How to Check & EA Caveats",
+  "description": "Sandustry achievements for Steam Early Access: how to verify the list in your client, overlay and global stats (app 2764460), demo-vs-full caveats, patch churn, and FAQ — no invented unlocks.",
+  "keyword": "sandustry achievements",
+  "h1": "Sandustry Achievements",
+  "note": "Achievement sets in Early Access games can be added, renamed, or granted retroactively in patches. This page cites only Steam, the official Hooded Horse wiki, and official community channels — it does not invent achievement names, counts, or unlock conditions.",
+  "sections": [
+    {
+      "h2": "What “Sandustry achievements” usually means",
+      "paragraphs": [
+        "Searchers looking for sandustry achievements usually want one of four things: the full Steam achievement list, a 100% completion guide, how many achievements exist, or confirmation that the free demo shares progress with the paid Early Access build.",
+        "Sandustry is a dig-and-automate factory sandbox from Lantto Games, published by Hooded Horse, sold as Steam Early Access (app 2764460) with a separate free demo (app 3490390).",
+        "This fan page answers that search intent honestly: what official sources currently support — and what they do not."
+      ]
+    },
+    {
+      "h2": "How to check achievements on Steam right now",
+      "paragraphs": [
+        "Open Steam, go to your Library, and open the Sandustry game page. If the live build ships achievements, an Achievements section appears there with the full list and your progress.",
+        "In game, the Steam overlay (Shift+Tab by default) shows an achievements panel when the app supports one — the fastest way to see unlocks as they pop.",
+        "For community-wide numbers, Steam’s public stats page for the app lists global unlock percentages. If no list appears for app 2764460, the build is not exposing achievements to Steam yet.",
+        "When achievements exist, your Steam profile completion stats can reflect them too, so a quick profile check is another way to confirm the situation on the current patch.",
+        "Because Sandustry is in Early Access, re-check after each update. The cheap answer today can be stale next month."
+      ]
+    },
+    {
+      "h2": "What official sources confirm today",
+      "paragraphs": [
+        "Preferred sources for this wiki are the Steam store pages for the main app and the demo, the Hooded Horse Sandustry official wiki, and the official Discord, YouTube, and Reddit channels linked from Steam.",
+        "Public store messaging for Sandustry centers on destructible sand physics, refining, conveyors, filters, fluids, and a growing Early Access roadmap — not a documented achievement catalog.",
+        "Steam’s Early Access notes promise more buildings, resources, production chains, quests, and technologies over the planned update window. Those are in-game progression promises; they are not a confirmed Steam achievement list, and you should not assume the two map one-to-one.",
+        "On this page’s research pass, a complete first-party achievement list — names, counts, unlock conditions — was not available from the preferred sources. Sources are thin, so this page documents how to verify for yourself instead of publishing a list it cannot stand behind."
+      ]
+    },
+    {
+      "h2": "Demo achievements vs the Early Access build",
+      "paragraphs": [
+        "The free demo is a separate Steam app (3490390) from the paid Early Access build (2764460). Each app tracks its own stats.",
+        "Do not assume demo unlocks carry into the full game, or that the two apps share one achievement set. Treat demo and EA progress as separate unless the developer documents otherwise in patch notes.",
+        "If you care about a clean profile or a completion run, decide which app you are chasing before grinding either build."
+      ]
+    },
+    {
+      "h2": "Early Access caveats before you chase 100%",
+      "paragraphs": [
+        "Early Access games routinely add, rename, retune, or retroactively grant achievements as content lands. A completion list that is accurate this week can be wrong after the next patch.",
+        "That cuts both ways: an unlock you earn may change later, and a route you read on a third-party site may stop working. The Steam client’s own list is always the safer reference.",
+        "Be skeptical of pages that promise an exact achievement count, hidden unlock conditions, or a full 100% route during Early Access without citing the developer. On our research pass, those claims were not backed by official sources.",
+        "Snapshot or save before doing anything destructive for a completion goal. A collapsed factory hurts more than a missed popup."
+      ]
+    },
+    {
+      "h2": "Achievement unlockers and “100%” shortcuts",
+      "paragraphs": [
+        "Third-party tools that force-unlock achievements for you can violate Steam’s own rules and put your account at risk. No shortcut is worth that for a fan wiki checkbox.",
+        "Treat “free achievement unlock” downloads like any other shady game-file download: they follow the same malware patterns as fake mod installers.",
+        "The honest path is your client’s own list, the in-game overlay, and official channels when something looks buggy or missing."
+      ]
+    },
+    {
+      "h2": "Safe places to watch for achievement news",
+      "paragraphs": [
+        "Steam news for app 2764460 — if a first-party achievement list ships, patch notes are where it gets announced.",
+        "Official Discord: https://discord.gg/HJNk5eMnmt — the fastest place to compare other players’ unlock popups against any list you find.",
+        "Reddit: r/SandustryGame — completion threads and screenshots; useful signals, not an authority.",
+        "Hooded Horse Sandustry official wiki — if an achievements page appears there, prefer it over fan mirrors."
+      ]
+    },
+    {
+      "h2": "What to do instead right now",
+      "paragraphs": [
+        "Give yourself goals that exist today: a stable dig → refine → short belt loop, an intentional clog you can clear, and one clean fluid path before you scale dig volume.",
+        "Steam’s Early Access notes describe quests and technologies as part of the live progression spine — treat those as your checklist while the achievement situation settles.",
+        "Beginner habits first: read the Beginner Guide for the first hours, Automation Tips when belts hurt, and Water Basics before wet sand stops being a novelty.",
+        "For patch-sensitive facts, follow the channel list on the Release Date page and re-check Steam after each update."
+      ]
+    },
+    {
+      "h2": "How this page will stay honest",
+      "paragraphs": [
+        "We will not invent achievement names, counts, unlock conditions, or a fake 100% route to fill a keyword.",
+        "When Steam news, the official wiki, or developer posts publish a concrete achievement list, this page should be updated to cite those sources directly.",
+        "Until then, the correct SEO answer for sandustry achievements is: sources are thin — verify in your Steam client, watch official channels, and skip invented lists."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does Sandustry have Steam achievements?",
+      "a": "We could not confirm a complete, citable achievement list from official sources on this page’s research pass. Check your Steam library page for app 2764460 — if the live build ships achievements, Steam shows the list and your progress there — and re-check after patches."
+    },
+    {
+      "q": "How many achievements does Sandustry have?",
+      "a": "There is no first-party count this page can cite today. Treat any specific number on an SEO page as unverified until Steam itself shows the list for the app."
+    },
+    {
+      "q": "Do demo achievements carry over to the full game?",
+      "a": "The demo (app 3490390) and the Early Access build (app 2764460) are separate Steam apps. Do not assume unlocks or progress transfer unless the developer says so in patch notes."
+    },
+    {
+      "q": "Is there a Sandustry 100% completion guide?",
+      "a": "Not from official sources we can cite. Early Access churn makes permanent routes unreliable, so this wiki will not publish invented unlock conditions."
+    },
+    {
+      "q": "Will achievements be added during Early Access?",
+      "a": "Unconfirmed. Steam’s EA notes describe more content arriving over the planned update window; whether that includes achievements should be checked in Steam news, not assumed."
+    },
+    {
+      "q": "Do in-game quests count as achievements?",
+      "a": "Treat them as separate systems unless a patch explicitly ties them together. Quest and technology progress is in-game; Steam achievements, if they exist, live on your Steam profile."
+    },
+    {
+      "q": "Where can I ask about a specific achievement?",
+      "a": "Official Discord (https://discord.gg/HJNk5eMnmt) or r/SandustryGame for crowd answers — then verify in your Steam client, because community posts are signals, not patch notes."
+    }
+  ],
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://discord.gg/HJNk5eMnmt",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ],
+  "related": [
+    "demo",
+    "guide",
+    "mods",
+    "release-date",
+    "tips",
+    "water"
+  ]
+}
