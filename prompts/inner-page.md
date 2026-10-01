@@ -2,9 +2,25 @@
 
 Use this when creating or refreshing `content/en/*.json` guide pages.
 
-## Output shape
+## Output format (strict JSON)
 
-JSON with: slug, title, description, updated (YYYY-MM-DD), sections[{heading, body}], faq[{q,a}], sources[], related[]
+```json
+{
+  "slug": "kebab-case-url",
+  "title": "SEO title 40-60 chars with keyword",
+  "description": "140-160 chars meta description",
+  "keyword": "primary search phrase",
+  "h1": "Single H1",
+  "sections": [
+    { "h2": "Section heading", "paragraphs": ["...", "..."] }
+  ],
+  "note": "optional caveat",
+  "sources": ["Steam / official / named article"]
+}
+```
+
+Keys `sections[].h2` and `sections[].paragraphs` (array of strings) are REQUIRED — do not use
+`heading`/`body` or any other key names.
 
 ## Rules
 

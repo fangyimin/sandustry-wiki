@@ -1,0 +1,43 @@
+{
+  "slug": "system-requirements",
+  "title": "Sandustry System Requirements: PC Specs & Demo Test",
+  "description": "Find Sandustry's minimum and recommended PC system requirements, where to check the latest specs on Steam, and how to test performance with the free demo.",
+  "keyword": "sandustry system requirements",
+  "h1": "Sandustry System Requirements",
+  "sections": [
+    {
+      "h2": "Where the official specs live",
+      "paragraphs": [
+        "Sandustry's minimum and recommended PC system requirements are published on the game's Steam store page, which is the authoritative source to check before buying or installing. Because the game is in active development, treat the listed figures as current at the latest patch rather than permanent.",
+        "Compare your hardware against both tiers: the minimum tells you whether the game will start and run at all, while the recommended tier is what the developers suggest for a smooth factory-building experience as your base grows."
+      ]
+    },
+    {
+      "h2": "Use the free demo as a real performance test",
+      "paragraphs": [
+        "The most reliable way to confirm your PC can run Sandustry is the free demo on Steam, which lets you spend time in the actual build instead of guessing from a spec sheet. If the demo runs comfortably on your setup, the full game is very likely to run on it too.",
+        "Start a new save and play a normal early session rather than just idling at the menu, since driving a small factory exercises your hardware far more than the title screen ever will. Our demo guide covers what to expect from the trial build."
+      ]
+    },
+    {
+      "h2": "What kind of load to expect",
+      "paragraphs": [
+        "Like most factory-building and automation games, Sandustry tends to get heavier as your production lines grow, because each additional machine, belt, and resource adds simulation work for your CPU. A PC that breezes through the early game can still slow down once your factory sprawls.",
+        "If you are on older hardware, keep graphics settings modest and close background applications before long sessions. GPU headroom matters most at high resolutions and with visual effects enabled, while simulation load is the long-term concern."
+      ]
+    },
+    {
+      "h2": "Early Access and changing specs",
+      "paragraphs": [
+        "System requirements can shift during Early Access as optimization patches lower the load or new content raises it. If your machine sits close to the line today, re-check the Steam page after major updates rather than assuming the numbers never change.",
+        "At the time of writing, coverage of exact hardware figures outside the Steam page is thin, so we deliberately avoid quoting numbers that could go stale. The Steam store listing for Sandustry remains the single source to trust for current requirements."
+      ]
+    }
+  ],
+  "note": "Exact minimum and recommended figures live on the Steam store page and can change between patches; this page intentionally avoids quoting numbers that may become outdated, and confirms your own machine via the free demo instead.",
+  "sources": [
+    "Steam store page: Sandustry (app 2764460)",
+    "Steam store page: Sandustry Demo (app 3490390)",
+    "Hooded Horse Sandustry Official Wiki"
+  ]
+}
