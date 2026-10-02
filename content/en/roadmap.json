@@ -1,0 +1,45 @@
+{
+  "slug": "roadmap",
+  "title": "Sandustry Roadmap: Early Access Plans and Updates",
+  "description": "Sandustry is in Early Access. Find planned features, recent patch news, and where to follow official updates — plus which roadmap details remain unconfirmed.",
+  "keyword": "sandustry roadmap",
+  "h1": "Sandustry Roadmap",
+  "sections": [
+    {
+      "h2": "Is There an Official Sandustry Roadmap?",
+      "paragraphs": [
+        "Sandustry is an Early Access title, so development is ongoing and future content is shaped partly by community feedback. The developer and publisher Hooded Horse announce changes through the Steam store page, the official Discord server, the official YouTube channel, and the Hooded Horse wiki.",
+        "There is no single fixed spreadsheet of promised features. What is on the roadmap shifts with each patch, so check the latest official announcement before planning around any feature you read about."
+      ]
+    },
+    {
+      "h2": "Where Roadmap and Patch News Is Posted",
+      "paragraphs": [
+        "The primary source is the Steam store page for Sandustry, where patch notes and developer announcements appear alongside the store description. The Hooded Horse official wiki documents what is actually in the released build right now, making it a good checkpoint for separating confirmed content from rumor.",
+        "The Sandustry Discord server is the usual first stop for news and feedback, and the YouTube channel @sandustry posts update videos. The r/SandustryGame subreddit is another official channel worth checking during patch weeks."
+      ]
+    },
+    {
+      "h2": "What the Current Build Already Includes",
+      "paragraphs": [
+        "The systems covered on this site's automation, water, and slag pages are all present in the current Early Access build. Whatever comes next for those systems will be announced through the official channels above.",
+        "If a feature is not visible in the game and not mentioned on an official channel, treat third-party upcoming content lists as speculation. Any roadmap page that promises unannounced mechanics or exact dates should not be trusted."
+      ]
+    },
+    {
+      "h2": "How to Stay Ahead of the Next Update",
+      "paragraphs": [
+        "Add Sandustry to your Steam wishlist, join the official Discord, and watch the Steam announcements tab when a patch is due. If a full release date is eventually confirmed, the release-date page on this site will be updated to match it.",
+        "While you wait for the next roadmap milestone, the guide and tips pages cover the fastest way to get a working factory running in the current version."
+      ]
+    }
+  ],
+  "note": "Roadmap details change frequently during Early Access, and this page reflects only published official sources. Where a detail is unconfirmed at the time of writing, it is deliberately not listed here.",
+  "sources": [
+    "Steam store page — Sandustry (Early Access description)",
+    "Hooded Horse official wiki — Sandustry Official Wiki",
+    "Sandustry official Discord",
+    "r/SandustryGame subreddit",
+    "YouTube — @sandustry"
+  ]
+}
