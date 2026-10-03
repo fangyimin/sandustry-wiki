@@ -1,0 +1,50 @@
+{
+  "slug": "multiplayer",
+  "title": "Sandustry Multiplayer: Is Co-Op Planned? (2026)",
+  "description": "Is Sandustry multiplayer? The Early Access factory sim is single-player today, with co-op a long-term goal. Details are thin — here's what's confirmed.",
+  "keyword": "sandustry multiplayer",
+  "h1": "Does Sandustry Have Multiplayer?",
+  "sections": [
+    {
+      "h2": "Is Sandustry Multiplayer Today?",
+      "paragraphs": [
+        "As of the current Early Access build, Sandustry is a single-player factory automation game. There is no lobby browser, join menu, or co-op session system you can launch right now — every new save currently starts as a solo run on a desert world.",
+        "If you are searching for a Factorio-style co-op factory with friends, treat multiplayer as a 'not yet' rather than a 'no'. The Steam page and official channels discuss multiplayer as a future goal, but nothing multiplayer is playable in the live build at the time of writing."
+      ]
+    },
+    {
+      "h2": "What the Developers Have Said About Co-Op",
+      "paragraphs": [
+        "The developers have named co-op multiplayer as part of the long-term plan for later in development, but official statements deliberately avoid committing to a date, player count, or exact mode design. No playable multiplayer mode has been shipped or demoed publicly yet.",
+        "Because this is Early Access, treat every multiplayer detail as patch-sensitive: plans can shift with each major update. The most reliable places to track news are the developer's Steam announcements and the official Discord, not third-party wikis that speculate without sources."
+      ]
+    },
+    {
+      "h2": "Roadmap Status: Where Multiplayer Sits",
+      "paragraphs": [
+        "Multiplayer has been discussed as a future goal rather than a launch feature, and the specifics remain unconfirmed. Our roadmap page summarises what the developers have announced so far — check it alongside the Steam news feed before believing any 'multiplayer releasing next patch' rumours.",
+        "A practical tip for players deciding whether to start now: plan builds around the current single-player loop. Mining, belt layouts, logistics, and power management all carry over if co-op eventually lands, but nothing you optimise today depends on a multiplayer build being released."
+      ]
+    },
+    {
+      "h2": "Can Mods Add Multiplayer?",
+      "paragraphs": [
+        "No verified multiplayer mod exists at the time of writing. The mods covered on our mods page extend single-player gameplay — new buildings, quality-of-life tools, and balance tweaks — rather than adding co-op networking, which is typically too large a task for early community mods.",
+        "Be cautious with any download claiming to add online play: a fake 'multiplayer unlock' tool would be exactly the kind of file that ships malware. Stick to Steam Workshop and the sources linked from the official wiki, and wait for an official announcement instead."
+      ]
+    },
+    {
+      "h2": "Bottom Line for Players Asking About Multiplayer",
+      "paragraphs": [
+        "Sandustry multiplayer is confirmed only as a future intention, with no playable mode in the current Early Access build and no released date. If playing with friends is essential for you, wishlist-and-wait is the honest recommendation until the developers publish a concrete multiplayer milestone.",
+        "Meanwhile, the single-player experience — mining, belts, modular buildings, and factory automation — is complete enough to be worth starting now. If you would rather begin a solo factory than wait for co-op, the gameplay and tips pages will get you through your first hours."
+      ]
+    }
+  ],
+  "note": "Early Access details change quickly; multiplayer modes, player counts and dates in this article are unconfirmed beyond the developers' stated long-term intention — sources are thin and all specifics should be treated as patch-sensitive.",
+  "sources": [
+    "Steam: Sandustry store page and Early Access FAQ (store.steampowered.com/app/2764460)",
+    "Hooded Horse Sandustry Official Wiki",
+    "Official Sandustry Discord server"
+  ]
+}
