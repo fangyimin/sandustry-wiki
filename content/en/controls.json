@@ -1,0 +1,59 @@
+{
+  "slug": "controls",
+  "title": "Sandustry Controls: Mouse & Keyboard Input Guide 2026",
+  "description": "How to control Sandustry in Early Access: mouse and keyboard basics, where to find the in-game keybind list, and how to test inputs in the free demo.",
+  "keyword": "sandustry controls",
+  "h1": "Sandustry Controls and Input Guide",
+  "sections": [
+    {
+      "h2": "How Sandustry Input Works",
+      "paragraphs": [
+        "Sandustry is a single-player factory automation puzzle game built for mouse-and-keyboard play on PC. You place and supply sand blocks to structures, and most interaction is cursor-driven, with the keyboard adding camera movement and other shortcuts.",
+        "As of the current Early Access build, Hooded Horse and the developers have not published a full official keybind table outside the game client. The in-game settings menu is the authoritative place to check exact bindings, because control details can shift between patches."
+      ]
+    },
+    {
+      "h2": "Mouse Controls",
+      "paragraphs": [
+        "Mouse input is the core of factory play: you move the cursor to select positions, place sand or structures, and interact with the grid. The exact click and drag bindings are shown in the in-game controls screen rather than in a static external list.",
+        "If you come from other block-building or automation puzzle games, the click-to-place loop will feel familiar, but Early Access updates have adjusted interaction details before, so verify against your current build instead of older guides."
+      ]
+    },
+    {
+      "h2": "Keyboard and Camera Controls",
+      "paragraphs": [
+        "The keyboard handles camera movement and common shortcuts, with controls displayed inside the game client. Because the developers tune the feel of camera panning and rotation during Early Access, community-posted keybind lists can go stale quickly.",
+        "We deliberately do not print a key-by-key table here: no official binding list has been published on the Steam page or the official wiki, and an unverified list would do more harm than good. Open the settings menu in your installed build for the correct current bindings."
+      ]
+    },
+    {
+      "h2": "Where to Find the Official Control List",
+      "paragraphs": [
+        "The in-game options or controls screen is your primary source, including any remapping support available in the current patch. The official Sandustry wiki and the official Discord announcements channel are the best places to check when a patch changes defaults.",
+        "If the in-game screen is unhelpful or a binding seems broken, report it through the official Discord so it can be fixed or documented."
+      ]
+    },
+    {
+      "h2": "Testing Controls in the Free Demo",
+      "paragraphs": [
+        "The free Sandustry Demo on Steam uses the same core input scheme as the full game, so it is the safest way to test mouse feel and camera controls before buying. Try the first puzzle with default settings, then open the settings menu to see what can be changed.",
+        "Because the demo and the full game can run slightly different builds during Early Access, treat any control difference you notice as patch-sensitive rather than a bug."
+      ]
+    },
+    {
+      "h2": "Controls and Accessibility Notes",
+      "paragraphs": [
+        "Sandustry is primarily a thinking game rather than a twitch game, so raw input speed matters less than careful placement. That said, official documentation on rebinding, controller support, or accessibility options is thin right now, and we avoid guessing what may be added later.",
+        "Check the roadmap page for input and accessibility items announced by the developers, and confirm anything you rely on in the current build before purchase."
+      ]
+    }
+  ],
+  "note": "Early Access caveat: no official keybind table has been published outside the client, so treat third-party keybind lists as unverified and check the in-game settings screen for your current build.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://discord.gg/HJNk5eMnmt",
+    "https://www.youtube.com/@sandustry"
+  ]
+}
