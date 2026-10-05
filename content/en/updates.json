@@ -1,0 +1,44 @@
+{
+  "slug": "updates",
+  "title": "Sandustry Update Guide: Patches, Patch Notes & News",
+  "description": "Track Sandustry updates: where Early Access patch notes and dev diaries are published, how Steam auto-updates work, and how to check your game version.",
+  "keyword": "sandustry update",
+  "h1": "Sandustry Updates: Patch Notes, Versions & News",
+  "sections": [
+    {
+      "h2": "Does Sandustry update automatically?",
+      "paragraphs": [
+        "Sandustry is delivered through Steam, so a new Early Access build downloads automatically whenever the developers publish one, as long as automatic updates are enabled in your Steam settings. If a patch appears to be missing, restarting Steam or triggering a download check usually resolves it, and you should let any pending download finish before launching so the game opens on the newest build.",
+        "Your installed version is visible in the game itself, although its exact location can shift between builds. If the number you see does not match the latest patch notes, check Steam > Library > Sandustry > Properties > Installed Files and verify file integrity, which re-downloads any missing or outdated files."
+      ]
+    },
+    {
+      "h2": "Where Sandustry patch notes are published",
+      "paragraphs": [
+        "Official patch notes appear first in the Sandustry Steam News hub, alongside the Hooded Horse Sandustry Official Wiki and announcement channels on the official Sandustry Discord. These primary sources are the only reliable places to confirm what a given update actually contains and which version number is current.",
+        "A typical changelog covers bug fixes, balance adjustments, and performance improvements, with larger content changes arriving as development progresses. Treat third-party sites or videos claiming update contents with caution unless they clearly quote one of the official sources above."
+      ]
+    },
+    {
+      "h2": "What to expect from Early Access updates",
+      "paragraphs": [
+        "Sandustry is in active development during Steam Early Access, from developer Rockalot Studio with publisher Hooded Horse. Because updates ship as work is finished, no fixed cadence is promised, and spacing between patches has varied, so treat any patch-sensitive details you read elsewhere as subject to change until confirmed in an official note. Planned future work is tracked separately in our roadmap guide.",
+        "When a larger update lands, it is worth reading the latest patch notes before continuing a save, since balance-sensitive systems can be adjusted without warning. If a patch touches core mechanics, cross-check our pages on buildings, water, and slag to see whether those guides still match current behavior."
+      ]
+    },
+    {
+      "h2": "Checking you are on the latest build",
+      "paragraphs": [
+        "Confirm your version by comparing the in-game build number against the most recent Steam News post for Sandustry. You can also open Steam > Library > right-click Sandustry > Properties > Updates to confirm automatic updates are set to keep the game current, and clearing the Steam download cache can fix a stuck or missing patch.",
+        "Early Access updates are generally expected to remain compatible with existing saves, but read each patch note first because developers flag any save-impacting changes there. If a beta branch is ever offered under Properties > Betas, back up your save files before opting in, since beta builds are test versions and not the stable public update."
+      ]
+    }
+  ],
+  "note": "Update cadence, version numbering, and save compatibility can all change between patches. Always confirm a suspected change in the latest official Steam or Discord patch notes before acting on it, and treat community claims about update timing as unverified.",
+  "sources": [
+    "Steam store page - Sandustry (Early Access)",
+    "Hooded Horse Sandustry Official Wiki",
+    "Official Sandustry Discord",
+    "Sandustry on YouTube (@sandustry)"
+  ]
+}
