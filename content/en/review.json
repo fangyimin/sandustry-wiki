@@ -1,0 +1,54 @@
+{
+  "slug": "review",
+  "title": "Sandustry Review 2026: Is the Sand Factory Game Worth It?",
+  "description": "Read our Sandustry review covering Steam and critic reactions, the sand-processing automation loop, Early Access caveats, and whether it's worth buying.",
+  "keyword": "sandustry review",
+  "h1": "Sandustry Review 2026: Should You Dig In?",
+  "sections": [
+    {
+      "h2": "Sandustry review roundup: what players say",
+      "paragraphs": [
+        "Since Sandustry entered Early Access in October 2025, user reviews on Steam have sat firmly in the strongly positive range, with the store listing hovering near the 'Overwhelmingly Positive' bracket for much of that time. Exact percentages and totals shift with every patch, so check the Steam page for the current split before drawing conclusions.",
+        "Players and community threads on r/SandustryGame frequently describe Sandustry as a cross between a factory automation game and a falling-sand physics sandbox, with 'Noita meets Factorio' the most common shorthand. That comparison keeps coming back in reviews because it captures both halves of what makes the game unusual: a fully simulated world of shifting sand and fluids underneath a classic processing-chain economy.",
+        "Critic coverage beyond Steam user reviews has been thinner; Hooded Horse and Traloc have leaned on player feedback, the official Discord, and developer blog posts rather than a large press campaign. Treat this review as a synthesis of Steam sentiment, community reports, and the official wiki rather than a round-up of scored magazine verdicts."
+      ]
+    },
+    {
+      "h2": "What reviewers praise most",
+      "paragraphs": [
+        "The core loop earns the most consistent praise: automated excavators chew through dunes, belts and pipes move raw materials, and research unlocks demand ever more complex processing steps from sand to sellable products. Players describe watching the first self-sustaining line run as a genuine tabletop-sandbox delight, and the game tutorializes this first hour well enough that our guide and tips pages barely need to fill gaps.",
+        "The second favorite is the simulation itself. Sand, gravel, water, gas, and heat all behave like real falling-sand physics, so every factory is partly a machine and partly a miniature ecosystem you have dug out of a destructible voxel world. When a line breaks, it breaks physically, and many reviewers say fixing these emergent messes is where Sandustry gets its identity distinct from other automation games.",
+        "A third point of praise is the pace of updates: the developer ships regular iteration patches, and the game openly signals what is still on the way. You can track that cadence on our updates and roadmap pages, both of which show a team treating Early Access as active development rather than a paid beta with a slow trickle."
+      ]
+    },
+    {
+      "h2": "Where Early Access reviews get cautious",
+      "paragraphs": [
+        "The most common complaint is content depth in the later stages. Reviewers note that the early-mid game is genuinely deep, but long-term goals can thin out once your main lines are humming, which is typical for a game still mid-way through its Early Access plan. Expect the end game to evolve patch by patch rather than judging it as finished.",
+        "Performance also gets flagged in negative-leaning reviews: a simulation where thousands of grains of sand keep falling is demanding, and large factories on mid-range hardware can strain. The system-requirements page lists what you need, and the graphics settings offer aggressive simulation scaling, but reviewers suggest checking the free demo first if your PC is older.",
+        "Some players also mention wanting more automation of logistics and combat pressure in the early game, and multiplayer remains a frequent request that the developer has acknowledged rather than shipped at launch. None of these are review-killers, but they explain why the rating sits a notch below a perfect score."
+      ]
+    },
+    {
+      "h2": "The demo verdict: try before you buy",
+      "paragraphs": [
+        "A notable share of positive Steam reviews explicitly mention playing the free demo before purchasing, and the demo is representative enough that it functions as the shortest possible review: if digging, smelting, and routing sand clicks for you in the first hour, the full game only expands the same loop. Our demo page covers exactly what carries over and what is gated in the trial.",
+        "Because Early Access reviews age, the demo is also the most honest current snapshot of performance on your own hardware and your own tolerance for physics-sim jank. Consider it the first-hand check that no amount of reading this review page can replace."
+      ]
+    },
+    {
+      "h2": "Is Sandustry worth it? Early Access verdict",
+      "paragraphs": [
+        "Our verdict matches the Steam consensus: yes, if you enjoy automation games with a strong physics identity and can handle the usual Early Access caveats, Sandustry earns its price with a genuinely novel premise rather than a reskin of an existing formula. The first ten hours in particular are some of the most distinctive in the genre.",
+        "If you want a finished, optimized end game and stable multiplayer, the better move is to wishlist and revisit at 1.0 while tracking the roadmap and updates pages. If you trust a demo that clearly communicates the whole fantasy, the game delivers on it today."
+      ]
+    }
+  ],
+  "note": "Review sentiment on this page reflects Early Access as of late 2026 and can shift with major updates; always check the current Steam review split, and note that sandustry's broader critic coverage is thin compared to its user-review volume.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ]
+}
