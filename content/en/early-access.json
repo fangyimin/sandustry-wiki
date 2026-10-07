@@ -1,0 +1,46 @@
+{
+  "slug": "early-access",
+  "title": "Sandustry Early Access: Demo, Roadmap, and What to Expect",
+  "description": "What to know about Sandustry Early Access: the free Steam demo, patch cadence, roadmap, and how to track updates before the full release.",
+  "keyword": "sandustry early access",
+  "h1": "Sandustry Early Access: What We Know",
+  "sections": [
+    {
+      "h2": "Is Sandustry in Early Access?",
+      "paragraphs": [
+        "Sandustry is a sand-factory puzzle game published by Hooded Horse. The developer posts progress updates through Steam announcements and the official Discord, but as of this snapshot no dated Early Access window is confirmed in official sources, and sources for exact timing are thin. Treat any date seen off-platform as rumor until the store page says otherwise.",
+        "Hooded Horse regularly uses Early Access for its simulation titles, so an early access phase is plausible, but this guide only reflects what the Steam pages and official channels actually state. Check the release status on the store page for the current plan."
+      ]
+    },
+    {
+      "h2": "What to Expect from an Early Access Build",
+      "paragraphs": [
+        "An early access build typically means a smaller roster of sand types, recipe costs that shift between patches, and balance changes as the developer tunes the campaign. Any number shown in a screenshot or video may already be outdated, and no official recipe tables or unlock lists should be treated as final.",
+        "Player feedback routes already exist: the official Discord and the Steam discussions hub are where bug reports and suggestions are collected, and they are the first places design changes are announced."
+      ]
+    },
+    {
+      "h2": "Start with the Free Demo Instead of Waiting",
+      "paragraphs": [
+        "The Sandustry Demo is free on Steam and is the practical first step while the full release is pending. It introduces the core loop: harvest elemental sand, combine it through machines, and deliver requested materials, which is also the skill you will need on day one of the full game.",
+        "The demo is the safest way to judge whether the pipeline pacing and puzzle style suit you before buying at launch, and it also gives you a head start on reading the machine and conveyor logic the campaign expects."
+      ]
+    },
+    {
+      "h2": "How to Track Early Access News",
+      "paragraphs": [
+        "Follow the Steam announcements feed for Sandustry, the official Hooded Horse wiki, and the official Sandustry Discord. Patch notes, roadmap updates, and beta sign-ups are posted there first.",
+        "The r/SandustryGame subreddit and the official YouTube channel repost teasers and developer diaries and are useful for community discussion, but verify any claim against the Steam page or Discord before acting on it."
+      ]
+    }
+  ],
+  "note": "Early Access dates, pricing, and content scope are unconfirmed in public sources as of 2026-10-07; verify the Steam store page before relying on third-party claims.",
+  "sources": [
+    "Steam store page: Sandustry (app 2764460)",
+    "Steam store page: Sandustry Demo (app 3490390)",
+    "Hooded Horse Sandustry Official Wiki",
+    "Official Sandustry Discord",
+    "r/SandustryGame (Reddit)",
+    "Official YouTube: @sandustry"
+  ]
+}
