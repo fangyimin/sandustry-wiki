@@ -1,0 +1,43 @@
+{
+  "slug": "conveyor",
+  "title": "Sandustry Conveyor Guide: Belts, Placement & First Automation",
+  "description": "Learn how conveyors work in Sandustry: belt placement, connecting extractors to machines, and first-hour automation tips from official sources.",
+  "keyword": "sandustry conveyor",
+  "h1": "Sandustry Conveyor Guide: Moving Items from Extractor to Machine",
+  "sections": [
+    {
+      "h2": "What Conveyors Do in Sandustry",
+      "paragraphs": [
+        "In Sandustry, the slime-filled factory sandbox from Hooded Horse, conveyors are the backbone of every production line. They carry mined resources, such as sand and other raw materials, from extractors to processing machines, replacing manual hauling as soon as you set up your first chain.",
+        "Because Sandustry is a physics-based sandbox, belts aren't purely abstract: items visibly travel along them, and placement on the deformable terrain matters. Connecting the output of one machine to the input of the next is the core loop that turns scattered buildings into a working factory."
+      ]
+    },
+    {
+      "h2": "Placing Conveyors in Your First Hour",
+      "paragraphs": [
+        "Start simple: place an extractor on a resource you can reach, then run a conveyor from its output toward a processing building's input. Pay attention to the direction arrows shown during placement, and avoid overly steep slopes until you learn how terrain affects belt construction.",
+        "In the first hour, short, straight belt runs with clear spacing to other buildings are easier to debug than long merged lines. Pull a belt to an open area rather than stacking it through machinery if the connection glow does not confirm a valid input."
+      ]
+    },
+    {
+      "h2": "Belts and the Rest of Your Automation Chain",
+      "paragraphs": [
+        "Conveyors only shine when paired with the rest of the loop: extractors feed them, processing buildings consume what they carry, and storage or onwards belts take the output. If a line stalls, check both ends first, an unconnected input or a full output is far more common in Early Access than a broken belt.",
+        "The game's slime physics also create hazards around your lines, so keep belts separated from open hazard zones until these interactions are patched or documented further."
+      ]
+    },
+    {
+      "h2": "Early Access Caveats",
+      "paragraphs": [
+        "Sandustry is in Early Access, and exact belt speeds, throughput caps, and advanced merging behavior are patch-sensitive details that the official wiki has not fully documented in a stable form. Treat any circulating numbers as provisional, and verify against the Steam page and the official Hooded Horse wiki after each update.",
+        "Official messages also emphasize that recipes and building balance change during Early Access, so a layout that works today may need small adjustments after a major patch. Prefer flexible, easily rerouted belt runs over perfectly optimized, rigid ones this early."
+      ]
+    }
+  ],
+  "note": "No confirmed belt-speed or throughput numbers are published in official sources yet; treat any community figures as unverified Early Access data.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://www.youtube.com/@sandustry"
+  ]
+}
