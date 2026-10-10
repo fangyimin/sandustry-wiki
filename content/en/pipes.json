@@ -1,0 +1,39 @@
+{
+  "slug": "pipes",
+  "title": "Sandustry Pipes Guide: Transport Granular Materials",
+  "description": "Learn how pipes work in Sandustry, from moving sand and granular materials between machines to keeping production flowing in the falling-sand automation game.",
+  "keyword": "sandustry pipes",
+  "h1": "Sandustry Pipes Guide",
+  "sections": [
+    {
+      "h2": "How Pipes Work in Sandustry",
+      "paragraphs": [
+        "In Sandustry, pipes move granular and fluid-like materials such as sand between machines, replacing manual transport as your factory grows. Because the game uses a physics-based falling-sand simulation, material inside pipes behaves like flowing sand rather than simple inventory items: it pours, settles, and responds to how you lay out your network."
+      ]
+    },
+    {
+      "h2": "Pipes vs. Conveyors",
+      "paragraphs": [
+        "Pipes handle bulk granular flows, while conveyors move discrete produced items. If a machine spits out solid parts, route them with conveyors; if it emits sand, powder, or similar bulk material, pipes are usually the right connection. See our conveyor guide for the item side of logistics."
+      ]
+    },
+    {
+      "h2": "Practical Pipe Tips",
+      "paragraphs": [
+        "When starting out, connect pipes directly between a producer and consumer and watch whether material actually arrives before extending the line. Gravity and spacing matter in a particle simulation, so short, simple runs are easier to troubleshoot than long networks. Leave room to re-route, because adding machines almost always forces you to rework your earliest piping."
+      ]
+    },
+    {
+      "h2": "Early Access Status",
+      "paragraphs": [
+        "Sandustry is in Early Access, and transport mechanics can change between patches. Specific pipe behaviors, flow rules, and unlock details should be verified against the current build; our updates page tracks notable changes."
+      ]
+    }
+  ],
+  "note": "Sandustry is in Early Access; pipe mechanics and balance are patch-sensitive and may differ from guides written for older builds.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://www.youtube.com/@sandustry"
+  ]
+}
