@@ -1,0 +1,46 @@
+{
+  "slug": "research",
+  "title": "Sandustry Research: What Is Confirmed in Early Access",
+  "description": "How research and progression work in Sandustry: what is confirmed about tech-tree unlocks, machine unlocks, and what Early Access players should know.",
+  "keyword": "sandustry research",
+  "h1": "Sandustry Research Explained",
+  "sections": [
+    {
+      "h2": "What We Know About Sandustry Research",
+      "paragraphs": [
+        "Sandustry is a factory-building game about digging up sand and refining it into increasingly advanced products. So far, the team and publisher have not published a dedicated research guide, and sources are thin on a standalone research-tree screen.",
+        "Because the game is in Early Access, unlock paths and progression details are patch-sensitive and may change between updates. Treat any specifics you read elsewhere as unconfirmed until you check the official wiki or the Steam news feed.",
+        "Our main guide (guide) and automation (automation) pages cover the confirmed basics of setting up production lines."
+      ]
+    },
+    {
+      "h2": "How Progression Seems to Work",
+      "paragraphs": [
+        "Early play and official previews describe progression as expanding your sand-processing line step by step: collect raw sand, separate out materials, and route them into machines that turn simple products into more advanced ones.",
+        "Unlike some factory games with a visible research tree, Sandustry puts your attention on logistics and layout. New production steps appear to open as your factory grows, but without an official unlock table there is no confirmed list of exact triggers or tiers."
+      ]
+    },
+    {
+      "h2": "Early Access: Why Research Details Change",
+      "paragraphs": [
+        "Sandustry is in Early Access and the developers are still tuning progression. Costs, unlock order, and even whether a formal research menu exists can shift from patch to patch.",
+        "Before you optimize around the current build, check the official roadmap (roadmap) and updates (updates) pages, plus the Steam announcement feed, for the latest changes."
+      ]
+    },
+    {
+      "h2": "Where to Find Confirmed Research Info",
+      "paragraphs": [
+        "The reliable places to track research and progression news are the Steam store page, the official Hooded Horse Sandustry wiki, the official Discord, the official YouTube channel, and r/SandustryGame on Reddit.",
+        "Until an official unlock guide is published, the best-confirmed picture remains thin but consistent: focus on producing and distributing more materials, and watch the official channels for announcements."
+      ]
+    }
+  ],
+  "note": "Sources on a standalone research system are thin; this page reflects the officially confirmed Early Access picture and should be re-checked after major updates.",
+  "sources": [
+    "Steam store page: Sandustry",
+    "Hooded Horse Sandustry Official Wiki",
+    "Official Sandustry Discord",
+    "Official Sandustry YouTube channel",
+    "r/SandustryGame"
+  ]
+}
