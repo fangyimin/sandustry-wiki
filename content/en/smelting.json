@@ -1,0 +1,43 @@
+{
+  "slug": "smelting",
+  "title": "Sandustry Smelting Guide: How to Make Glass",
+  "description": "How smelting works in Sandustry: turn mined sand into glass with the Smelter, feed it with belts, and grow your desert factory. Early Access.",
+  "keyword": "sandustry smelting",
+  "h1": "Sandustry Smelting Guide: From Sand to Glass",
+  "sections": [
+    {
+      "h2": "What Is Smelting in Sandustry?",
+      "paragraphs": [
+        "Sandustry is a low-poly factory building game in Early Access on Steam, published by Hooded Horse and created by the student team at Breda University of Applied Sciences. Instead of iron and copper, your factory starts with one raw material: sand.",
+        "Smelting is the heart of the early game. A Smelter takes raw sand and turns it into glass, the material you use to build more machines, belts, and structures. Your first jobs are to extract sand, get it to a Smelter, and keep the glass flowing."
+      ]
+    },
+    {
+      "h2": "The Sand-to-Glass Loop",
+      "paragraphs": [
+        "Extract sand from the desert with your starting extractor and deliver it to a Smelter on [conveyor belts](/conveyor). The Smelter outputs glass, which you can send onward to storage or to the construction of new [buildings](/buildings).",
+        "Keep outputs moving. A Smelter whose glass output is blocked will stall, so add buffer storage or run the glass straight into your next production step. Short, clean belt lines are easier to debug than long mixed lines in the first hour."
+      ]
+    },
+    {
+      "h2": "Getting Smelting Right Early",
+      "paragraphs": [
+        "Start small: hook one sand source to one Smelter and confirm the loop works before adding more machines. Early game pacing rewards a working trickle of glass over a half-built megaproject.",
+        "Once the first loop runs, scale in parallel. Extra Smelters fed by their own sand lines tend to beat one long chain while you are still learning belt routing. See our [guide](/guide) for first-hour goals and the [slag](/slag) page for related materials you may meet later."
+      ]
+    },
+    {
+      "h2": "Early Access Caveats",
+      "paragraphs": [
+        "Sandustry is in Early Access, and smelting-related numbers, such as unlock costs, Smelter speed, and recipe counts, can change between patches. Before copying published layouts, confirm current values against in-game tooltips or the official Hooded Horse Sandustry wiki.",
+        "Detailed coverage of smelting mechanics outside the official wiki is still thin. Where this page avoids specifics like exact ratios, fuels, or unlock order, it is because current confirmed sources do not pin them down."
+      ]
+    }
+  ],
+  "note": "Applies to both the free demo and the Early Access build; exact Smelter stats are patch-sensitive.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/ (Steam store page)",
+    "https://store.steampowered.com/app/3490390/Sandustry_Demo/ (Steam demo page)",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki (Sandustry Official Wiki, Hooded Horse)"
+  ]
+}
