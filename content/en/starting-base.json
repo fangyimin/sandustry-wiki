@@ -1,0 +1,44 @@
+{
+  "slug": "starting-base",
+  "title": "Sandustry Best Starting Base: Setup & Location Tips",
+  "description": "Learn how to plan your first Sandustry base: where to build, starting drills and smelters, and early layouts that keep sand, ore, and fluids flowing.",
+  "keyword": "sandustry best starting base",
+  "h1": "Best Starting Base in Sandustry",
+  "sections": [
+    {
+      "h2": "Why Your First Base Layout Matters",
+      "paragraphs": [
+        "Sandustry drops you onto a wide map with limited starting tools, so your first base only needs to do three jobs well: pull in a steady supply of raw sand or ore, move it without the belts backing up, and leave clear space for the next machine you unlock.",
+        "Because items keep moving on belts and sand behaves as a physical material, cramped layouts clog quickly in this game. A little empty space between machines is worth more in the first hour than a compact design you will have to tear down."
+      ]
+    },
+    {
+      "h2": "How to Choose a Starting Spot",
+      "paragraphs": [
+        "Scout for a reasonably flat area near a sand or ore deposit, with enough room for both a belt line and later pipe runs. The official Sandustry wiki lists belts, pipes, and smelters among the core early machines, so a location that can host all three is more valuable than one sitting directly on a single deposit.",
+        "Walk the site once before building. If the terrain slopes into your planned belt path or the deposit sits against a cliff, the layout fight will cost more time than simply moving a few tiles over."
+      ]
+    },
+    {
+      "h2": "A Simple Starting Layout",
+      "paragraphs": [
+        "A safe first pattern is a straight chain: extractor to belt, belt to smelter, smelter output to storage or research. Keep the belts as straight as you can; every bend and side-feed is one more place where sand can pile up. See our conveyor and smelting pages for the underlying mechanics.",
+        "Once that loop runs without your attention, expand outward rather than upward: add a parallel line for a second material, then connect fluids with pipes only when you actually need them. The buildings page covers the machines worth unlocking early, and the automation guide covers how to scale the same idea."
+      ]
+    },
+    {
+      "h2": "What to Avoid Early",
+      "paragraphs": [
+        "Do not build storage buffers you cannot watch, and do not branch a single belt into many machines before the input is stable. In almost every first base, the bottleneck is the source, not the machines, so fix the extraction side before adding more smelters.",
+        "Patch-sensitive details such as exact machine costs, names, and unlock order are easy to get wrong from memory. When in doubt, check the current wiki or the in-game tooltips instead of copying a layout built for an older update."
+      ]
+    }
+  ],
+  "note": "Sandustry is in Early Access at the time of writing. Machine names, costs, unlock order, and balance values can change between patches, so treat this as general layout advice rather than a fixed build order. If a specific detail is not confirmed on the official wiki or Steam page, assume it is not verified.",
+  "sources": [
+    "https://store.steampowered.com/app/2764460/Sandustry/",
+    "https://wiki.hoodedhorse.com/Sandustry/Sandustry_Official_Wiki",
+    "https://www.reddit.com/r/SandustryGame",
+    "https://www.youtube.com/@sandustry"
+  ]
+}
